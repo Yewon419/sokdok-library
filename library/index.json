@@ -1,0 +1,4628 @@
+[
+ {
+  "id": "unsu-joheun-nal",
+  "category": "단편 소설",
+  "title": "운수 좋은 날",
+  "author": "현진건",
+  "lang": "ko",
+  "total": 2169,
+  "words": 2617,
+  "source": "https://ko.wikisource.org/wiki/운수_좋은_날",
+  "license": "퍼블릭 도메인 (저자 1943년 사망)",
+  "bytes": 29873,
+  "rev": "0a6e6e7342d8",
+  "bundled": true,
+  "tags": [
+   "술",
+   "학교·배움",
+   "도시",
+   "병·고통",
+   "돈·일"
+  ]
+ },
+ {
+  "id": "dongbaekkkot",
+  "category": "단편 소설",
+  "title": "동백꽃",
+  "author": "김유정",
+  "lang": "ko",
+  "total": 1513,
+  "words": 1792,
+  "source": "https://ko.wikisource.org/wiki/동백꽃",
+  "license": "퍼블릭 도메인 (저자 1937년 사망)",
+  "bytes": 20384,
+  "rev": "7a217925d8f6",
+  "bundled": true,
+  "tags": [
+   "동물",
+   "자연"
+  ]
+ },
+ {
+  "id": "memilkkot",
+  "category": "단편 소설",
+  "title": "메밀꽃 필 무렵",
+  "author": "이효석",
+  "lang": "ko",
+  "total": 1747,
+  "words": 2011,
+  "source": "https://ko.wikisource.org/wiki/메밀꽃_필_무렵",
+  "license": "퍼블릭 도메인 (저자 1942년 사망)",
+  "bytes": 24482,
+  "rev": "0f03eb4ebf51",
+  "bundled": true,
+  "tags": [
+   "술",
+   "동물",
+   "마을·고향",
+   "어린이"
+  ]
+ },
+ {
+  "id": "bombom",
+  "category": "단편 소설",
+  "title": "봄 · 봄",
+  "author": "김유정",
+  "lang": "ko",
+  "total": 2426,
+  "words": 2852,
+  "source": "https://ko.wikisource.org/wiki/봄봄",
+  "license": "퍼블릭 도메인 (저자 1937년 사망)",
+  "bytes": 32698,
+  "rev": "10f395d7bd74",
+  "bundled": false,
+  "tags": [
+   "병·고통",
+   "음식",
+   "농촌"
+  ]
+ },
+ {
+  "id": "b-sagam",
+  "category": "단편 소설",
+  "title": "B사감과 러브레터",
+  "author": "현진건",
+  "lang": "ko",
+  "total": 1154,
+  "words": 1326,
+  "source": "https://ko.wikisource.org/wiki/B사감과_러브레터",
+  "license": "퍼블릭 도메인 (저자 현진건 1943년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 15850,
+  "rev": "db1be1f66eea",
+  "bundled": false,
+  "tags": [
+   "학교·배움",
+   "공포·괴기",
+   "사랑·결혼"
+  ]
+ },
+ {
+  "id": "binche",
+  "category": "단편 소설",
+  "title": "빈처",
+  "author": "현진건",
+  "lang": "ko",
+  "total": 2932,
+  "words": 3437,
+  "source": "https://ko.wikisource.org/wiki/빈처",
+  "license": "퍼블릭 도메인 (저자 현진건 1943년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 40430,
+  "rev": "77aa6e947164",
+  "bundled": false,
+  "tags": [
+   "음식",
+   "가족",
+   "돈·일"
+  ]
+ },
+ {
+  "id": "sul-gwonhaneun-sahoe",
+  "category": "단편 소설",
+  "title": "술 권하는 사회",
+  "author": "현진건",
+  "lang": "ko",
+  "total": 2227,
+  "words": 2622,
+  "source": "https://ko.wikisource.org/wiki/술_권하는_사회",
+  "license": "퍼블릭 도메인 (저자 현진건 1943년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 30894,
+  "rev": "6305d75853a0",
+  "bundled": false,
+  "tags": [
+   "술",
+   "사회·계급",
+   "가족"
+  ]
+ },
+ {
+  "id": "gohyang",
+  "category": "단편 소설",
+  "title": "고향",
+  "author": "현진건",
+  "lang": "ko",
+  "total": 1120,
+  "words": 1337,
+  "source": "https://ko.wikisource.org/wiki/고향_(현진건)",
+  "license": "퍼블릭 도메인 (저자 현진건 1943년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 15703,
+  "rev": "fa61ac85b721",
+  "bundled": false,
+  "tags": [
+   "도시",
+   "농촌",
+   "마을·고향",
+   "돈·일"
+  ]
+ },
+ {
+  "id": "halmeoniui-jugeum",
+  "category": "단편 소설",
+  "title": "할머니의 죽음",
+  "author": "현진건",
+  "lang": "ko",
+  "total": 2000,
+  "words": 2323,
+  "source": "https://ko.wikisource.org/wiki/할머니의_죽음",
+  "license": "퍼블릭 도메인 (저자 현진건 1943년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 28270,
+  "rev": "1312f079d4a1",
+  "bundled": false,
+  "tags": [
+   "병·고통"
+  ]
+ },
+ {
+  "id": "piano",
+  "category": "단편 소설",
+  "title": "피아노",
+  "author": "현진건",
+  "lang": "ko",
+  "total": 537,
+  "words": 615,
+  "source": "https://ko.wikisource.org/wiki/피아노",
+  "license": "퍼블릭 도메인 (저자 현진건 1943년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 7743,
+  "rev": "ab9243a662c9",
+  "bundled": false,
+  "tags": [
+   "예술",
+   "가족"
+  ]
+ },
+ {
+  "id": "sonakbi",
+  "category": "단편 소설",
+  "title": "소낙비",
+  "author": "김유정",
+  "lang": "ko",
+  "total": 2531,
+  "words": 2908,
+  "source": "https://ko.wikisource.org/wiki/소낙비",
+  "license": "퍼블릭 도메인 (저자 김유정 1937년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 34027,
+  "rev": "62d921df5f28",
+  "bundled": false,
+  "tags": [
+   "도시",
+   "가난",
+   "돈·일",
+   "농촌",
+   "가족"
+  ]
+ },
+ {
+  "id": "manmubang",
+  "category": "단편 소설",
+  "title": "만무방",
+  "author": "김유정",
+  "lang": "ko",
+  "total": 5026,
+  "words": 5925,
+  "source": "https://ko.wikisource.org/wiki/만무방",
+  "license": "퍼블릭 도메인 (저자 김유정 1937년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 66672,
+  "rev": "9eb30534bd7f",
+  "bundled": false,
+  "tags": [
+   "우정",
+   "농촌",
+   "계절",
+   "가난",
+   "병·고통"
+  ]
+ },
+ {
+  "id": "geum-ttaneun-kongbat",
+  "category": "단편 소설",
+  "title": "금 따는 콩밭",
+  "author": "김유정",
+  "lang": "ko",
+  "total": 2285,
+  "words": 2618,
+  "source": "https://ko.wikisource.org/wiki/금_따는_콩밭",
+  "license": "퍼블릭 도메인 (저자 김유정 1937년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 31123,
+  "rev": "400b25d25a69",
+  "bundled": false,
+  "tags": [
+   "농촌",
+   "음식",
+   "가족"
+  ]
+ },
+ {
+  "id": "ttaengbyeot",
+  "category": "단편 소설",
+  "title": "땡볕",
+  "author": "김유정",
+  "lang": "ko",
+  "total": 1350,
+  "words": 1619,
+  "source": "https://ko.wikisource.org/wiki/땡볕",
+  "license": "퍼블릭 도메인 (저자 김유정 1937년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 18474,
+  "rev": "483377d5fb61",
+  "bundled": false,
+  "tags": [
+   "병·고통",
+   "돈·일",
+   "어린이",
+   "가족"
+  ]
+ },
+ {
+  "id": "nodaji",
+  "category": "단편 소설",
+  "title": "노다지",
+  "author": "김유정",
+  "lang": "ko",
+  "total": 2114,
+  "words": 2453,
+  "source": "https://ko.wikisource.org/wiki/노다지",
+  "license": "퍼블릭 도메인 (저자 김유정 1937년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 28141,
+  "rev": "3a26ca081cf2",
+  "bundled": false,
+  "tags": [
+   "동물"
+  ]
+ },
+ {
+  "id": "sangol-nageune",
+  "category": "단편 소설",
+  "title": "산골 나그네",
+  "author": "김유정",
+  "lang": "ko",
+  "total": 2157,
+  "words": 2432,
+  "source": "https://ko.wikisource.org/wiki/산골_나그네",
+  "license": "퍼블릭 도메인 (저자 김유정 1937년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 29297,
+  "rev": "429602ffbb3c",
+  "bundled": false,
+  "tags": [
+   "모험·여행",
+   "술",
+   "음식",
+   "가난",
+   "마을·고향"
+  ]
+ },
+ {
+  "id": "ttaraji",
+  "category": "단편 소설",
+  "title": "따라지",
+  "author": "김유정",
+  "lang": "ko",
+  "total": 4045,
+  "words": 4728,
+  "source": "https://ko.wikisource.org/wiki/따라지",
+  "license": "퍼블릭 도메인 (저자 김유정 1937년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 54656,
+  "rev": "1f33a7d17014",
+  "bundled": false,
+  "tags": [
+   "범죄·추리",
+   "병·고통",
+   "음식"
+  ]
+ },
+ {
+  "id": "bomgwa-ttaraji",
+  "category": "단편 소설",
+  "title": "봄과 따라지",
+  "author": "김유정",
+  "lang": "ko",
+  "total": 1380,
+  "words": 1578,
+  "source": "https://ko.wikisource.org/wiki/봄과_따라지",
+  "license": "퍼블릭 도메인 (저자 김유정 1937년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 18325,
+  "rev": "ed8e85c556ff",
+  "bundled": false,
+  "tags": [
+   "음식"
+  ]
+ },
+ {
+  "id": "mullebanga",
+  "category": "단편 소설",
+  "title": "물레방아",
+  "author": "나도향",
+  "lang": "ko",
+  "total": 2749,
+  "words": 3104,
+  "source": "https://ko.wikisource.org/wiki/물레방아",
+  "license": "퍼블릭 도메인 (저자 나도향 1926년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 37030,
+  "rev": "334bacd91471",
+  "bundled": false,
+  "tags": [
+   "범죄·추리",
+   "마을·고향"
+  ]
+ },
+ {
+  "id": "ppong",
+  "category": "단편 소설",
+  "title": "뽕",
+  "author": "나도향",
+  "lang": "ko",
+  "total": 3156,
+  "words": 3686,
+  "source": "https://ko.wikisource.org/wiki/뽕",
+  "license": "퍼블릭 도메인 (저자 나도향 1926년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 43633,
+  "rev": "a8b952ca7c9d",
+  "bundled": false,
+  "tags": [
+   "범죄·추리",
+   "돈·일"
+  ]
+ },
+ {
+  "id": "jagireul-chatgi-jeon",
+  "category": "단편 소설",
+  "title": "자기를 찾기 전",
+  "author": "나도향",
+  "lang": "ko",
+  "total": 4208,
+  "words": 4866,
+  "source": "https://ko.wikisource.org/wiki/자기를_찾기_전",
+  "license": "퍼블릭 도메인 (저자 나도향 1926년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 57850,
+  "rev": "f89590cc8bf3",
+  "bundled": false,
+  "tags": [
+   "병·고통",
+   "어린이",
+   "도시",
+   "가족",
+   "돈·일"
+  ]
+ },
+ {
+  "id": "gamja",
+  "category": "단편 소설",
+  "title": "감자",
+  "author": "김동인",
+  "lang": "ko",
+  "total": 1304,
+  "words": 1563,
+  "source": "https://ko.wikisource.org/wiki/감자",
+  "license": "퍼블릭 도메인 (저자 김동인 1951년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 18380,
+  "rev": "543f07853bd6",
+  "bundled": false,
+  "tags": [
+   "범죄·추리",
+   "계절",
+   "가난",
+   "마을·고향",
+   "죽음"
+  ]
+ },
+ {
+  "id": "baettaragi",
+  "category": "단편 소설",
+  "title": "배따라기",
+  "author": "김동인",
+  "lang": "ko",
+  "total": 2676,
+  "words": 3083,
+  "source": "https://ko.wikisource.org/wiki/배따라기",
+  "license": "퍼블릭 도메인 (저자 김동인 1951년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 36412,
+  "rev": "a947b45482d6",
+  "bundled": false,
+  "tags": [
+   "계절",
+   "바다",
+   "음식",
+   "마을·고향",
+   "예술"
+  ]
+ },
+ {
+  "id": "gwanghwasa",
+  "category": "단편 소설",
+  "title": "광화사",
+  "author": "김동인",
+  "lang": "ko",
+  "total": 3202,
+  "words": 3620,
+  "source": "https://ko.wikisource.org/wiki/광화사",
+  "license": "퍼블릭 도메인 (저자 김동인 1951년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 44603,
+  "rev": "61fbbe1ed112",
+  "bundled": false,
+  "tags": [
+   "도시",
+   "예술",
+   "계절",
+   "자연"
+  ]
+ },
+ {
+  "id": "bulgeun-san",
+  "category": "단편 소설",
+  "title": "붉은 산",
+  "author": "김동인",
+  "lang": "ko",
+  "total": 1118,
+  "words": 1243,
+  "source": "https://ko.wikisource.org/wiki/붉은_산",
+  "license": "퍼블릭 도메인 (저자 김동인 1951년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 15367,
+  "rev": "29a796f89c9f",
+  "bundled": false,
+  "tags": [
+   "마을·고향",
+   "농촌",
+   "죽음"
+  ]
+ },
+ {
+  "id": "gwangyeom-sonata",
+  "category": "단편 소설",
+  "title": "광염 소나타",
+  "author": "김동인",
+  "lang": "ko",
+  "total": 3840,
+  "words": 4480,
+  "source": "https://ko.wikisource.org/wiki/광염_소나타",
+  "license": "퍼블릭 도메인 (저자 김동인 1951년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 54099,
+  "rev": "9953266f1518",
+  "bundled": false,
+  "tags": [
+   "예술",
+   "공포·괴기",
+   "술",
+   "범죄·추리",
+   "학교·배움"
+  ]
+ },
+ {
+  "id": "nalgae",
+  "category": "단편 소설",
+  "title": "날개",
+  "author": "이상",
+  "lang": "ko",
+  "total": 4721,
+  "words": 5870,
+  "source": "https://ko.wikisource.org/wiki/날개",
+  "license": "퍼블릭 도메인 (저자 이상 1937년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 65188,
+  "rev": "6985cf697e86",
+  "bundled": false,
+  "tags": [
+   "돈·일",
+   "도시",
+   "병·고통",
+   "가족",
+   "음식"
+  ]
+ },
+ {
+  "id": "bongbyeolgi",
+  "category": "단편 소설",
+  "title": "봉별기",
+  "author": "이상",
+  "lang": "ko",
+  "total": 1100,
+  "words": 1321,
+  "source": "https://ko.wikisource.org/wiki/봉별기",
+  "license": "퍼블릭 도메인 (저자 이상 1937년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 15867,
+  "rev": "342d1c5b348f",
+  "bundled": false,
+  "tags": [
+   "우정",
+   "사랑·결혼"
+  ]
+ },
+ {
+  "id": "readymade-insaeng",
+  "category": "단편 소설",
+  "title": "레디메이드 인생",
+  "author": "채만식",
+  "lang": "ko",
+  "total": 5075,
+  "words": 5877,
+  "source": "https://ko.wikisource.org/wiki/레디메이드_인생",
+  "license": "퍼블릭 도메인 (저자 채만식 1950년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 70058,
+  "rev": "87067161e369",
+  "bundled": false,
+  "tags": [
+   "학교·배움",
+   "도시",
+   "가난",
+   "돈·일",
+   "술"
+  ]
+ },
+ {
+  "id": "chisuk",
+  "category": "단편 소설",
+  "title": "치숙",
+  "author": "채만식",
+  "lang": "ko",
+  "total": 2880,
+  "words": 3436,
+  "source": "https://ko.wikisource.org/wiki/치숙",
+  "license": "퍼블릭 도메인 (저자 채만식 1950년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 40664,
+  "rev": "09bc3aa0754d",
+  "bundled": false,
+  "tags": [
+   "사회·계급",
+   "학교·배움",
+   "돈·일",
+   "가난"
+  ]
+ },
+ {
+  "id": "talchulgi",
+  "category": "단편 소설",
+  "title": "탈출기",
+  "author": "최서해",
+  "lang": "ko",
+  "total": 1899,
+  "words": 2221,
+  "source": "https://ko.wikisource.org/wiki/탈출기",
+  "license": "퍼블릭 도메인 (저자 최서해 1932년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 26195,
+  "rev": "ff659a019ffa",
+  "bundled": false,
+  "tags": [
+   "가난",
+   "돈·일",
+   "계절",
+   "농촌",
+   "가족"
+  ]
+ },
+ {
+  "id": "hongyeom",
+  "category": "단편 소설",
+  "title": "홍염",
+  "author": "최서해",
+  "lang": "ko",
+  "total": 3357,
+  "words": 3789,
+  "source": "https://ko.wikisource.org/wiki/홍염",
+  "license": "퍼블릭 도메인 (저자 최서해 1932년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 46222,
+  "rev": "e12863ae7464",
+  "bundled": false,
+  "tags": [
+   "계절",
+   "가난",
+   "농촌",
+   "예술",
+   "동물"
+  ]
+ },
+ {
+  "id": "baekchi-adada",
+  "category": "단편 소설",
+  "title": "백치 아다다",
+  "author": "계용묵",
+  "lang": "ko",
+  "total": 2884,
+  "words": 3435,
+  "source": "https://ko.wikisource.org/wiki/백치_아다다",
+  "license": "퍼블릭 도메인 (저자 계용묵 1961년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 39633,
+  "rev": "bdf1e77c5a2e",
+  "bundled": false,
+  "tags": [
+   "돈·일",
+   "농촌",
+   "공포·괴기",
+   "마을·고향",
+   "가족"
+  ]
+ },
+ {
+  "id": "jihachon",
+  "category": "단편 소설",
+  "title": "지하촌",
+  "author": "강경애",
+  "lang": "ko",
+  "total": 7325,
+  "words": 8438,
+  "source": "https://ko.wikisource.org/wiki/지하촌",
+  "license": "퍼블릭 도메인 (저자 강경애 1944년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 97447,
+  "rev": "46b9898b320a",
+  "bundled": false,
+  "tags": [
+   "어린이",
+   "병·고통",
+   "우정",
+   "마을·고향",
+   "동물"
+  ]
+ },
+ {
+  "id": "san-leehyoseok",
+  "category": "단편 소설",
+  "title": "산",
+  "author": "이효석",
+  "lang": "ko",
+  "total": 1228,
+  "words": 1428,
+  "source": "https://ko.wikisource.org/wiki/산_(이효석)",
+  "license": "퍼블릭 도메인 (저자 이효석 1942년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 17197,
+  "rev": "894ec6a77e90",
+  "bundled": false,
+  "tags": [
+   "자연",
+   "마을·고향",
+   "동물"
+  ]
+ },
+ {
+  "id": "en-gift-of-the-magi",
+  "category": "단편 소설",
+  "title": "The Gift of the Magi",
+  "author": "O. Henry",
+  "lang": "en",
+  "total": 1639,
+  "words": 2057,
+  "source": "https://www.gutenberg.org/ebooks/7256",
+  "license": "퍼블릭 도메인 (저자 1910년 사망)",
+  "bytes": 15274,
+  "rev": "6e8278b658b1",
+  "bundled": false,
+  "tags": [
+   "계절",
+   "돈·일"
+  ]
+ },
+ {
+  "id": "en-last-leaf",
+  "category": "단편 소설",
+  "title": "The Last Leaf",
+  "author": "O. Henry",
+  "lang": "en",
+  "total": 1885,
+  "words": 2346,
+  "source": "https://www.gutenberg.org/ebooks/3707",
+  "license": "퍼블릭 도메인 (저자 1910년 사망)",
+  "bytes": 17537,
+  "rev": "2d3aaf02aba7",
+  "bundled": false,
+  "tags": [
+   "도시",
+   "죽음"
+  ]
+ },
+ {
+  "id": "en-house-of-usher",
+  "category": "단편 소설",
+  "title": "The Fall of the House of Usher",
+  "author": "Edgar Allan Poe",
+  "lang": "en",
+  "total": 5177,
+  "words": 6716,
+  "source": "https://www.gutenberg.org/ebooks/932",
+  "license": "퍼블릭 도메인 (저자 1849년 사망)",
+  "bytes": 50752,
+  "rev": "ab134e179954",
+  "bundled": false,
+  "tags": [
+   "공포·괴기",
+   "병·고통"
+  ]
+ },
+ {
+  "id": "en-amontillado",
+  "category": "단편 소설",
+  "title": "The Cask of Amontillado",
+  "author": "Edgar Allan Poe",
+  "lang": "en",
+  "total": 1823,
+  "words": 2309,
+  "source": "https://www.gutenberg.org/ebooks/1063",
+  "license": "퍼블릭 도메인 (저자 1849년 사망)",
+  "bytes": 17570,
+  "rev": "19d3f760439b",
+  "bundled": false,
+  "tags": []
+ },
+ {
+  "id": "en-tell-tale-heart",
+  "category": "단편 소설",
+  "title": "The Tell-Tale Heart",
+  "author": "Edgar Allan Poe",
+  "lang": "en",
+  "total": 1710,
+  "words": 2076,
+  "source": "https://www.gutenberg.org/ebooks/2148",
+  "license": "퍼블릭 도메인 (저자 1849년 사망)",
+  "bytes": 15330,
+  "rev": "a5cea998bfbf",
+  "bundled": true,
+  "tags": [
+   "공포·괴기",
+   "죽음"
+  ]
+ },
+ {
+  "id": "en-monkeys-paw",
+  "category": "단편 소설",
+  "title": "The Monkey's Paw",
+  "author": "W. W. Jacobs",
+  "lang": "en",
+  "total": 3145,
+  "words": 3934,
+  "source": "https://www.gutenberg.org/ebooks/12122",
+  "license": "퍼블릭 도메인 (저자 1943년 사망)",
+  "bytes": 29954,
+  "rev": "98fe61294013",
+  "bundled": false,
+  "tags": [
+   "돈·일",
+   "가족",
+   "전쟁",
+   "음식",
+   "죽음"
+  ]
+ },
+ {
+  "id": "en-sleepy-hollow",
+  "category": "단편 소설",
+  "title": "The Legend of Sleepy Hollow",
+  "author": "Washington Irving",
+  "lang": "en",
+  "total": 9333,
+  "words": 12197,
+  "source": "https://www.gutenberg.org/ebooks/41",
+  "license": "퍼블릭 도메인 (저자 1859년 사망)",
+  "bytes": 89462,
+  "rev": "c188ada25a49",
+  "bundled": false,
+  "tags": [
+   "농촌",
+   "공포·괴기",
+   "계절",
+   "꿈·환상",
+   "학교·배움"
+  ]
+ },
+ {
+  "id": "en-open-window",
+  "category": "단편 소설",
+  "title": "The Open Window",
+  "author": "Saki",
+  "lang": "en",
+  "total": 967,
+  "words": 1208,
+  "source": "https://www.gutenberg.org/ebooks/269",
+  "license": "퍼블릭 도메인 (저자 1916년 사망)",
+  "bytes": 9330,
+  "rev": "69b15682e051",
+  "bundled": false,
+  "tags": [
+   "가족"
+  ]
+ },
+ {
+  "id": "en-yellow-wallpaper",
+  "category": "단편 소설",
+  "title": "The Yellow Wallpaper",
+  "author": "Charlotte Perkins Gilman",
+  "lang": "en",
+  "total": 5148,
+  "words": 6078,
+  "source": "https://www.gutenberg.org/ebooks/1952",
+  "license": "퍼블릭 도메인 (저자 1935년 사망)",
+  "bytes": 43471,
+  "rev": "afb7ef4856da",
+  "bundled": false,
+  "tags": [
+   "어린이"
+  ]
+ },
+ {
+  "id": "en-rip-van-winkle",
+  "category": "단편 소설",
+  "title": "Rip Van Winkle",
+  "author": "Washington Irving",
+  "lang": "en",
+  "total": 4731,
+  "words": 6057,
+  "source": "https://www.gutenberg.org/ebooks/60976",
+  "license": "퍼블릭 도메인 (저자 1859년 사망)",
+  "bytes": 44912,
+  "rev": "59d9c2bf685a",
+  "bundled": false,
+  "tags": [
+   "마을·고향",
+   "농촌",
+   "동물",
+   "자연",
+   "돈·일"
+  ]
+ },
+ {
+  "id": "mujeong",
+  "category": "장편 소설",
+  "title": "무정",
+  "author": "이광수",
+  "lang": "ko",
+  "total": 70862,
+  "words": 80450,
+  "source": "https://ko.wikisource.org/wiki/무정",
+  "license": "퍼블릭 도메인 (저자 이광수 1950년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 946500,
+  "rev": "6037f8984d48",
+  "bundled": false,
+  "tags": [
+   "학교·배움",
+   "우정",
+   "도시",
+   "범죄·추리",
+   "꿈·환상"
+  ]
+ },
+ {
+  "id": "heuk",
+  "category": "장편 소설",
+  "title": "흙",
+  "author": "이광수",
+  "lang": "ko",
+  "total": 95203,
+  "words": 110412,
+  "source": "https://ko.wikisource.org/wiki/흙",
+  "license": "퍼블릭 도메인 (저자 이광수 1950년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 1285990,
+  "rev": "edce9921b89c",
+  "bundled": false,
+  "tags": [
+   "도시",
+   "범죄·추리",
+   "학교·배움",
+   "마을·고향",
+   "우정"
+  ]
+ },
+ {
+  "id": "sangnoksu",
+  "category": "장편 소설",
+  "title": "상록수",
+  "author": "심훈",
+  "lang": "ko",
+  "total": 53159,
+  "words": 61184,
+  "source": "https://ko.wikisource.org/wiki/상록수",
+  "license": "퍼블릭 도메인 (저자 심훈 1936년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 726784,
+  "rev": "3fa5e225dab5",
+  "bundled": false,
+  "tags": [
+   "술",
+   "학교·배움",
+   "꿈·환상",
+   "범죄·추리",
+   "가난"
+  ]
+ },
+ {
+  "id": "takryu",
+  "category": "장편 소설",
+  "title": "탁류",
+  "author": "채만식",
+  "lang": "ko",
+  "total": 87611,
+  "words": 100961,
+  "source": "https://ko.wikisource.org/wiki/탁류",
+  "license": "퍼블릭 도메인 (저자 채만식 1950년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 1199285,
+  "rev": "1925512f6939",
+  "bundled": false,
+  "tags": [
+   "도시",
+   "꿈·환상",
+   "우정",
+   "범죄·추리",
+   "공포·괴기"
+  ]
+ },
+ {
+  "id": "eomeoni-nadohyang",
+  "category": "장편 소설",
+  "title": "어머니",
+  "author": "나도향",
+  "lang": "ko",
+  "total": 44341,
+  "words": 53007,
+  "source": "https://ko.wikisource.org/wiki/어머니_(나도향)",
+  "license": "퍼블릭 도메인 (저자 나도향 1926년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 608449,
+  "rev": "53a7f33dd73f",
+  "bundled": false,
+  "tags": [
+   "우정",
+   "도시",
+   "꿈·환상",
+   "술",
+   "공포·괴기"
+  ]
+ },
+ {
+  "id": "en-pride-and-prejudice",
+  "category": "장편 소설",
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "lang": "en",
+  "total": 98297,
+  "words": 121547,
+  "source": "https://www.gutenberg.org/ebooks/1342",
+  "license": "퍼블릭 도메인 (저자 1817년 사망)",
+  "bytes": 907005,
+  "rev": "78cc63a9fa20",
+  "bundled": false,
+  "tags": [
+   "우정",
+   "가족",
+   "모험·여행",
+   "돈·일",
+   "가난"
+  ]
+ },
+ {
+  "id": "en-alice",
+  "category": "장편 소설",
+  "title": "Alice's Adventures in Wonderland",
+  "author": "Lewis Carroll",
+  "lang": "en",
+  "total": 21366,
+  "words": 26119,
+  "source": "https://www.gutenberg.org/ebooks/11",
+  "license": "퍼블릭 도메인 (저자 1898년 사망)",
+  "bytes": 195716,
+  "rev": "421880b0b7e3",
+  "bundled": false,
+  "tags": [
+   "동물",
+   "예술",
+   "학교·배움",
+   "역사·왕조",
+   "음식"
+  ]
+ },
+ {
+  "id": "en-frankenstein",
+  "category": "장편 소설",
+  "title": "Frankenstein",
+  "author": "Mary Shelley",
+  "lang": "en",
+  "total": 59168,
+  "words": 74913,
+  "source": "https://www.gutenberg.org/ebooks/84",
+  "license": "퍼블릭 도메인 (저자 1851년 사망)",
+  "bytes": 547727,
+  "rev": "e210180f9f53",
+  "bundled": false,
+  "tags": [
+   "범죄·추리",
+   "모험·여행",
+   "농촌",
+   "과학",
+   "가난"
+  ]
+ },
+ {
+  "id": "en-sherlock-holmes",
+  "category": "장편 소설",
+  "title": "The Adventures of Sherlock Holmes",
+  "author": "Arthur Conan Doyle",
+  "lang": "en",
+  "total": 84177,
+  "words": 104348,
+  "source": "https://www.gutenberg.org/ebooks/1661",
+  "license": "퍼블릭 도메인 (저자 1930년 사망)",
+  "bytes": 759862,
+  "rev": "f854a481a3bd",
+  "bundled": false,
+  "tags": [
+   "범죄·추리",
+   "과학",
+   "돈·일",
+   "모험·여행",
+   "도시"
+  ]
+ },
+ {
+  "id": "en-tom-sawyer",
+  "category": "장편 소설",
+  "title": "The Adventures of Tom Sawyer",
+  "author": "Mark Twain",
+  "lang": "en",
+  "total": 57724,
+  "words": 69670,
+  "source": "https://www.gutenberg.org/ebooks/74",
+  "license": "퍼블릭 도메인 (저자 1910년 사망)",
+  "bytes": 526446,
+  "rev": "47a00e19fe13",
+  "bundled": false,
+  "tags": [
+   "우정",
+   "마을·고향",
+   "모험·여행",
+   "범죄·추리",
+   "학교·배움"
+  ]
+ },
+ {
+  "id": "en-jekyll-hyde",
+  "category": "장편 소설",
+  "title": "The Strange Case of Dr Jekyll and Mr Hyde",
+  "author": "Robert Louis Stevenson",
+  "lang": "en",
+  "total": 20188,
+  "words": 25530,
+  "source": "https://www.gutenberg.org/ebooks/43",
+  "license": "퍼블릭 도메인 (저자 1894년 사망)",
+  "bytes": 184342,
+  "rev": "e8719c71e9f1",
+  "bundled": false,
+  "tags": [
+   "범죄·추리",
+   "과학",
+   "공포·괴기",
+   "자유·독립",
+   "도시"
+  ]
+ },
+ {
+  "id": "en-treasure-island",
+  "category": "장편 소설",
+  "title": "Treasure Island",
+  "author": "Robert Louis Stevenson",
+  "lang": "en",
+  "total": 54365,
+  "words": 67655,
+  "source": "https://www.gutenberg.org/ebooks/120",
+  "license": "퍼블릭 도메인 (저자 1894년 사망)",
+  "bytes": 487487,
+  "rev": "c7617e8fb478",
+  "bundled": false,
+  "tags": [
+   "바다",
+   "모험·여행",
+   "우정",
+   "가난",
+   "병·고통"
+  ]
+ },
+ {
+  "id": "en-dorian-gray",
+  "category": "장편 소설",
+  "title": "The Picture of Dorian Gray",
+  "author": "Oscar Wilde",
+  "lang": "en",
+  "total": 64504,
+  "words": 78886,
+  "source": "https://www.gutenberg.org/ebooks/174",
+  "license": "퍼블릭 도메인 (저자 1900년 사망)",
+  "bytes": 581389,
+  "rev": "356c56b0de67",
+  "bundled": false,
+  "tags": [
+   "예술",
+   "범죄·추리",
+   "과학",
+   "우정",
+   "공포·괴기"
+  ]
+ },
+ {
+  "id": "en-christmas-carol",
+  "category": "장편 소설",
+  "title": "A Christmas Carol",
+  "author": "Charles Dickens",
+  "lang": "en",
+  "total": 22999,
+  "words": 28389,
+  "source": "https://www.gutenberg.org/ebooks/46",
+  "license": "퍼블릭 도메인 (저자 1870년 사망)",
+  "bytes": 212256,
+  "rev": "44b713cb3ad8",
+  "bundled": false,
+  "tags": [
+   "공포·괴기",
+   "계절",
+   "가난",
+   "예술",
+   "돈·일"
+  ]
+ },
+ {
+  "id": "en-great-expectations",
+  "category": "장편 소설",
+  "title": "Great Expectations",
+  "author": "Charles Dickens",
+  "lang": "en",
+  "total": 150225,
+  "words": 184196,
+  "source": "https://www.gutenberg.org/ebooks/1400",
+  "license": "퍼블릭 도메인 (저자 1870년 사망)",
+  "bytes": 1342311,
+  "rev": "10e379949335",
+  "bundled": false,
+  "tags": [
+   "범죄·추리",
+   "우정",
+   "가난",
+   "돈·일",
+   "공포·괴기"
+  ]
+ },
+ {
+  "id": "en-jane-eyre",
+  "category": "장편 소설",
+  "title": "Jane Eyre",
+  "author": "Charlotte Brontë",
+  "lang": "en",
+  "total": 150712,
+  "words": 184227,
+  "source": "https://www.gutenberg.org/ebooks/1260",
+  "license": "퍼블릭 도메인 (저자 1855년 사망)",
+  "bytes": 1363861,
+  "rev": "007564ea568a",
+  "bundled": false,
+  "tags": [
+   "가난",
+   "학교·배움",
+   "병·고통",
+   "모험·여행",
+   "예술"
+  ]
+ },
+ {
+  "id": "en-wuthering-heights",
+  "category": "장편 소설",
+  "title": "Wuthering Heights",
+  "author": "Emily Brontë",
+  "lang": "en",
+  "total": 94949,
+  "words": 115815,
+  "source": "https://www.gutenberg.org/ebooks/768",
+  "license": "퍼블릭 도메인 (저자 1848년 사망)",
+  "bytes": 867712,
+  "rev": "bfed1e781688",
+  "bundled": false,
+  "tags": [
+   "병·고통",
+   "계절",
+   "가난",
+   "꿈·환상",
+   "농촌"
+  ]
+ },
+ {
+  "id": "en-little-women",
+  "category": "장편 소설",
+  "title": "Little Women",
+  "author": "Louisa May Alcott",
+  "lang": "en",
+  "total": 153008,
+  "words": 185654,
+  "source": "https://www.gutenberg.org/ebooks/514",
+  "license": "퍼블릭 도메인 (저자 1888년 사망)",
+  "bytes": 1359409,
+  "rev": "c139e00dbc1c",
+  "bundled": false,
+  "tags": [
+   "예술",
+   "학교·배움",
+   "병·고통",
+   "가난",
+   "계절"
+  ]
+ },
+ {
+  "id": "en-time-machine",
+  "category": "장편 소설",
+  "title": "The Time Machine",
+  "author": "H. G. Wells",
+  "lang": "en",
+  "total": 25696,
+  "words": 32310,
+  "source": "https://www.gutenberg.org/ebooks/35",
+  "license": "퍼블릭 도메인 (저자 1946년 사망)",
+  "bytes": 237255,
+  "rev": "276adb529203",
+  "bundled": false,
+  "tags": [
+   "과학",
+   "모험·여행",
+   "공포·괴기",
+   "자연",
+   "병·고통"
+  ]
+ },
+ {
+  "id": "en-peter-pan",
+  "category": "장편 소설",
+  "title": "Peter Pan",
+  "author": "J. M. Barrie",
+  "lang": "en",
+  "total": 38632,
+  "words": 47019,
+  "source": "https://www.gutenberg.org/ebooks/16",
+  "license": "퍼블릭 도메인 (저자 1937년 사망)",
+  "bytes": 347793,
+  "rev": "720ac81f1c4a",
+  "bundled": false,
+  "tags": [
+   "꿈·환상",
+   "바다",
+   "모험·여행",
+   "어린이",
+   "예술"
+  ]
+ },
+ {
+  "id": "en-wizard-of-oz",
+  "category": "장편 소설",
+  "title": "The Wonderful Wizard of Oz",
+  "author": "L. Frank Baum",
+  "lang": "en",
+  "total": 31244,
+  "words": 39109,
+  "source": "https://www.gutenberg.org/ebooks/55",
+  "license": "퍼블릭 도메인 (저자 1919년 사망)",
+  "bytes": 279445,
+  "rev": "d26aa8103b48",
+  "bundled": false,
+  "tags": [
+   "꿈·환상",
+   "우정",
+   "농촌",
+   "모험·여행",
+   "동물"
+  ]
+ },
+ {
+  "id": "en-anne-green-gables",
+  "category": "장편 소설",
+  "title": "Anne of Green Gables",
+  "author": "L. M. Montgomery",
+  "lang": "en",
+  "total": 85514,
+  "words": 101965,
+  "source": "https://www.gutenberg.org/ebooks/45",
+  "license": "퍼블릭 도메인 (저자 1942년 사망)",
+  "bytes": 761852,
+  "rev": "220e035b684f",
+  "bundled": false,
+  "tags": [
+   "학교·배움",
+   "계절",
+   "꿈·환상",
+   "우정",
+   "음식"
+  ]
+ },
+ {
+  "id": "en-secret-garden",
+  "category": "장편 소설",
+  "title": "The Secret Garden",
+  "author": "Frances Hodgson Burnett",
+  "lang": "en",
+  "total": 68149,
+  "words": 80310,
+  "source": "https://www.gutenberg.org/ebooks/113",
+  "license": "퍼블릭 도메인 (저자 1924년 사망)",
+  "bytes": 596487,
+  "rev": "40464c357548",
+  "bundled": false,
+  "tags": [
+   "꿈·환상",
+   "과학",
+   "자연",
+   "농촌",
+   "가난"
+  ]
+ },
+ {
+  "id": "en-great-gatsby",
+  "category": "장편 소설",
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "lang": "en",
+  "total": 39198,
+  "words": 48023,
+  "source": "https://www.gutenberg.org/ebooks/64317",
+  "license": "퍼블릭 도메인 (저자 1940년 사망)",
+  "bytes": 364502,
+  "rev": "bab2f33db799",
+  "bundled": false,
+  "tags": [
+   "예술",
+   "계절",
+   "범죄·추리",
+   "꿈·환상",
+   "병·고통"
+  ]
+ },
+ {
+  "id": "en-winnie-the-pooh",
+  "category": "장편 소설",
+  "title": "Winnie-the-Pooh",
+  "author": "A. A. Milne",
+  "lang": "en",
+  "total": 18110,
+  "words": 21097,
+  "source": "https://www.gutenberg.org/ebooks/67098",
+  "license": "퍼블릭 도메인 (저자 1956년 사망)",
+  "bytes": 160270,
+  "rev": "9254f05c504f",
+  "bundled": false,
+  "tags": [
+   "동물",
+   "예술",
+   "자연",
+   "계절"
+  ]
+ },
+ {
+  "id": "en-sun-also-rises",
+  "category": "장편 소설",
+  "title": "The Sun Also Rises",
+  "author": "Ernest Hemingway",
+  "lang": "en",
+  "total": 55685,
+  "words": 67674,
+  "source": "https://www.gutenberg.org/ebooks/67138",
+  "license": "퍼블릭 도메인 (저자 1961년 사망)",
+  "bytes": 511191,
+  "rev": "aacc32fb6395",
+  "bundled": false,
+  "tags": [
+   "술",
+   "도시",
+   "예술",
+   "돈·일",
+   "병·고통"
+  ]
+ },
+ {
+  "id": "jindallaekkot",
+  "category": "시",
+  "title": "진달래꽃",
+  "author": "김소월",
+  "lang": "ko",
+  "total": 4981,
+  "words": 5571,
+  "source": "https://ko.wikisource.org/wiki/진달래꽃_(시집)",
+  "license": "퍼블릭 도메인 (저자 김소월 1934년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 73566,
+  "rev": "549f5016207c",
+  "bundled": false,
+  "tags": [
+   "꿈·환상",
+   "계절",
+   "바다",
+   "우정",
+   "자연"
+  ]
+ },
+ {
+  "id": "gwontae",
+  "category": "수필",
+  "title": "권태",
+  "author": "이상",
+  "lang": "ko",
+  "total": 2213,
+  "words": 2650,
+  "source": "https://ko.wikisource.org/wiki/권태",
+  "license": "퍼블릭 도메인 (저자 이상 1937년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 31165,
+  "rev": "e282c10e86b7",
+  "bundled": false,
+  "tags": [
+   "어린이"
+  ]
+ },
+ {
+  "id": "nakyeop",
+  "category": "수필",
+  "title": "낙엽을 태우면서",
+  "author": "이효석",
+  "lang": "ko",
+  "total": 545,
+  "words": 640,
+  "source": "https://ko.wikisource.org/wiki/낙엽을_태우면서",
+  "license": "퍼블릭 도메인 (저자 이효석 1942년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 7679,
+  "rev": "17774b86f5b4",
+  "bundled": false,
+  "tags": [
+   "계절"
+  ]
+ },
+ {
+  "id": "eorini-chanmi",
+  "category": "수필",
+  "title": "어린이 찬미",
+  "author": "방정환",
+  "lang": "ko",
+  "total": 973,
+  "words": 1164,
+  "source": "https://ko.wikisource.org/wiki/어린이_찬미",
+  "license": "퍼블릭 도메인 (저자 방정환 1931년 사망, 한국 저작권 보호기간 만료 / 위키문헌 PD-old)",
+  "bytes": 13401,
+  "rev": "1dd51b62b415",
+  "bundled": false,
+  "tags": [
+   "어린이",
+   "예술",
+   "자연"
+  ]
+ },
+ {
+  "id": "en-happy-prince",
+  "category": "동화·우화",
+  "title": "The Happy Prince and Other Tales",
+  "author": "Oscar Wilde",
+  "lang": "en",
+  "total": 13050,
+  "words": 16141,
+  "source": "https://www.gutenberg.org/ebooks/902",
+  "license": "퍼블릭 도메인 (저자 1900년 사망)",
+  "bytes": 116877,
+  "rev": "ba4dc353b849",
+  "bundled": false,
+  "tags": [
+   "우정",
+   "계절",
+   "예술",
+   "농촌",
+   "자연"
+  ]
+ },
+ {
+  "id": "en-grimm",
+  "category": "동화·우화",
+  "title": "Grimms' Fairy Tales",
+  "author": "Jacob & Wilhelm Grimm",
+  "lang": "en",
+  "total": 79998,
+  "words": 98609,
+  "source": "https://www.gutenberg.org/ebooks/2591",
+  "license": "퍼블릭 도메인 (번역 Edgar Taylor 1839년·Marian Edwardes 1932년 사망)",
+  "bytes": 689042,
+  "rev": "569792fe3153",
+  "bundled": false,
+  "tags": [
+   "동물",
+   "꿈·환상",
+   "가난",
+   "우정",
+   "모험·여행"
+  ]
+ },
+ {
+  "id": "en-aesop",
+  "category": "동화·우화",
+  "title": "Aesop's Fables",
+  "author": "Aesop",
+  "lang": "en",
+  "total": 25897,
+  "words": 34072,
+  "source": "https://www.gutenberg.org/ebooks/21",
+  "license": "퍼블릭 도메인 (번역 George Fyler Townsend, 1900년 사망)",
+  "bytes": 258186,
+  "rev": "9f71ffef27dd",
+  "bundled": false,
+  "tags": [
+   "동물",
+   "농촌",
+   "범죄·추리",
+   "가난",
+   "모험·여행"
+  ]
+ },
+ {
+  "id": "en-art-of-war",
+  "category": "논픽션",
+  "title": "The Art of War",
+  "author": "Sun Tzu",
+  "lang": "en",
+  "total": 9029,
+  "words": 11470,
+  "source": "https://www.gutenberg.org/ebooks/132",
+  "license": "퍼블릭 도메인 (번역 Lionel Giles, 1958년 사망)",
+  "bytes": 85861,
+  "rev": "a8c4ae9ba3e9",
+  "bundled": false,
+  "tags": [
+   "전쟁"
+  ]
+ },
+ {
+  "id": "en-meditations",
+  "category": "논픽션",
+  "title": "Meditations",
+  "author": "Marcus Aurelius",
+  "lang": "en",
+  "total": 48261,
+  "words": 57308,
+  "source": "https://www.gutenberg.org/ebooks/2680",
+  "license": "퍼블릭 도메인 (번역 Meric Casaubon, 1671년 사망)",
+  "bytes": 417653,
+  "rev": "a0225503f310",
+  "bundled": false,
+  "tags": [
+   "자유·독립",
+   "철학·사색",
+   "과학",
+   "병·고통",
+   "죽음"
+  ]
+ },
+ {
+  "id": "en-walden",
+  "category": "논픽션",
+  "title": "Walden",
+  "author": "Henry David Thoreau",
+  "lang": "en",
+  "total": 91034,
+  "words": 115390,
+  "source": "https://www.gutenberg.org/ebooks/205",
+  "license": "퍼블릭 도메인 (저자 1862년 사망)",
+  "bytes": 823432,
+  "rev": "d71a9128ac59",
+  "bundled": false,
+  "tags": [
+   "농촌",
+   "계절",
+   "마을·고향",
+   "과학",
+   "가난"
+  ]
+ },
+ {
+  "id": "en-emerson-essays",
+  "category": "논픽션",
+  "title": "Essays: First Series",
+  "author": "Ralph Waldo Emerson",
+  "lang": "en",
+  "total": 58046,
+  "words": 74102,
+  "source": "https://www.gutenberg.org/ebooks/2944",
+  "license": "퍼블릭 도메인 (저자 1882년 사망)",
+  "bytes": 536802,
+  "rev": "4f15b04255ec",
+  "bundled": false,
+  "tags": [
+   "우정",
+   "과학",
+   "예술",
+   "가난",
+   "철학·사색"
+  ]
+ },
+ {
+  "id": "en-franklin",
+  "category": "논픽션",
+  "title": "The Autobiography of Benjamin Franklin",
+  "author": "Benjamin Franklin",
+  "lang": "en",
+  "total": 48375,
+  "words": 61002,
+  "source": "https://www.gutenberg.org/ebooks/20203",
+  "license": "퍼블릭 도메인 (저자 1790년 사망)",
+  "bytes": 445534,
+  "rev": "d5e3bc052bfe",
+  "bundled": false,
+  "tags": [
+   "돈·일",
+   "과학",
+   "우정",
+   "가난",
+   "도시"
+  ]
+ },
+ {
+  "id": "en-douglass",
+  "category": "논픽션",
+  "title": "Narrative of the Life of Frederick Douglass",
+  "author": "Frederick Douglass",
+  "lang": "en",
+  "total": 28481,
+  "words": 36055,
+  "source": "https://www.gutenberg.org/ebooks/23",
+  "license": "퍼블릭 도메인 (저자 1895년 사망)",
+  "bytes": 258840,
+  "rev": "1a31912da693",
+  "bundled": false,
+  "tags": [
+   "사회·계급",
+   "자유·독립",
+   "농촌",
+   "가난",
+   "범죄·추리"
+  ]
+ },
+ {
+  "id": "en-up-from-slavery",
+  "category": "논픽션",
+  "title": "Up from Slavery",
+  "author": "Booker T. Washington",
+  "lang": "en",
+  "total": 56621,
+  "words": 73360,
+  "source": "https://www.gutenberg.org/ebooks/2376",
+  "license": "퍼블릭 도메인 (저자 1915년 사망)",
+  "bytes": 524028,
+  "rev": "c4505f34d4eb",
+  "bundled": false,
+  "tags": [
+   "학교·배움",
+   "돈·일",
+   "자유·독립",
+   "가난",
+   "사회·계급"
+  ]
+ },
+ {
+  "id": "en-bacon-essays",
+  "category": "논픽션",
+  "title": "Essays",
+  "author": "Francis Bacon",
+  "lang": "en",
+  "total": 41633,
+  "words": 51961,
+  "source": "https://www.gutenberg.org/ebooks/575",
+  "license": "퍼블릭 도메인 (저자 1626년 사망)",
+  "bytes": 381519,
+  "rev": "9b9ff9a3c2d0",
+  "bundled": false,
+  "tags": [
+   "우정",
+   "자유·독립",
+   "돈·일",
+   "병·고통",
+   "예술"
+  ]
+ },
+ {
+  "id": "bible-krv-01",
+  "category": "성경 (개역한글판)",
+  "title": "창세기",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 19357,
+  "words": 22080,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/창세기",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 256111,
+  "rev": "3bad551f9563",
+  "bundled": false,
+  "tags": [
+   "꿈·환상",
+   "동물",
+   "돈·일",
+   "가족",
+   "음식"
+  ]
+ },
+ {
+  "id": "bible-krv-02",
+  "category": "성경 (개역한글판)",
+  "title": "출애굽기",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 15209,
+  "words": 17743,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/출애굽기",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 201964,
+  "rev": "ccb3f65113f2",
+  "bundled": false,
+  "tags": [
+   "모험·여행",
+   "바다",
+   "동물",
+   "전쟁",
+   "자연"
+  ]
+ },
+ {
+  "id": "bible-krv-03",
+  "category": "성경 (개역한글판)",
+  "title": "레위기",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 10530,
+  "words": 12615,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/레위기",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 142079,
+  "rev": "8a91fb54237c",
+  "bundled": false,
+  "tags": [
+   "동물",
+   "음식",
+   "신앙",
+   "농촌",
+   "죽음"
+  ]
+ },
+ {
+  "id": "bible-krv-04",
+  "category": "성경 (개역한글판)",
+  "title": "민수기",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 15212,
+  "words": 17744,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/민수기",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 206540,
+  "rev": "6ebf41ab8572",
+  "bundled": false,
+  "tags": [
+   "전쟁",
+   "범죄·추리",
+   "가족",
+   "죽음",
+   "동물"
+  ]
+ },
+ {
+  "id": "bible-krv-05",
+  "category": "성경 (개역한글판)",
+  "title": "신명기",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 14082,
+  "words": 16650,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/신명기",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 188124,
+  "rev": "4e24d5a5846e",
+  "bundled": false,
+  "tags": [
+   "모험·여행",
+   "자유·독립",
+   "신앙",
+   "자연",
+   "마을·고향"
+  ]
+ },
+ {
+  "id": "bible-krv-06",
+  "category": "성경 (개역한글판)",
+  "title": "여호수아",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 9089,
+  "words": 10596,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/여호수아",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 123713,
+  "rev": "27cc1b233aff",
+  "bundled": false,
+  "tags": [
+   "범죄·추리",
+   "전쟁",
+   "바다",
+   "역사·왕조",
+   "신앙"
+  ]
+ },
+ {
+  "id": "bible-krv-07",
+  "category": "성경 (개역한글판)",
+  "title": "사사기",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 9790,
+  "words": 10936,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/사사기",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 129280,
+  "rev": "07afa2820aaf",
+  "bundled": false,
+  "tags": [
+   "우정",
+   "전쟁",
+   "죽음",
+   "가족",
+   "어린이"
+  ]
+ },
+ {
+  "id": "bible-krv-08",
+  "category": "성경 (개역한글판)",
+  "title": "룻기",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 1357,
+  "words": 1536,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/룻기",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 17972,
+  "rev": "0c8caba2a5cf",
+  "bundled": false,
+  "tags": [
+   "농촌",
+   "어린이",
+   "죽음",
+   "가족"
+  ]
+ },
+ {
+  "id": "bible-krv-09",
+  "category": "성경 (개역한글판)",
+  "title": "사무엘상",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 13025,
+  "words": 14536,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/사무엘상",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 171807,
+  "rev": "6d70fc3ac388",
+  "bundled": false,
+  "tags": [
+   "전쟁",
+   "어린이",
+   "역사·왕조",
+   "음식",
+   "신앙"
+  ]
+ },
+ {
+  "id": "bible-krv-10",
+  "category": "성경 (개역한글판)",
+  "title": "사무엘하",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 10656,
+  "words": 12105,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/사무엘하",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 140957,
+  "rev": "ca804f1cd98c",
+  "bundled": false,
+  "tags": [
+   "역사·왕조",
+   "전쟁",
+   "죽음",
+   "우정",
+   "어린이"
+  ]
+ },
+ {
+  "id": "bible-krv-11",
+  "category": "성경 (개역한글판)",
+  "title": "열왕기상",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 12307,
+  "words": 14204,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/열왕기상",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 163155,
+  "rev": "2544e6bb64de",
+  "bundled": false,
+  "tags": [
+   "역사·왕조",
+   "전쟁",
+   "음식",
+   "동물",
+   "죽음"
+  ]
+ },
+ {
+  "id": "bible-krv-12",
+  "category": "성경 (개역한글판)",
+  "title": "열왕기하",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 11347,
+  "words": 12982,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/열왕기하",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 152466,
+  "rev": "03865f3377b4",
+  "bundled": false,
+  "tags": [
+   "역사·왕조",
+   "전쟁",
+   "돈·일",
+   "죽음",
+   "가족"
+  ]
+ },
+ {
+  "id": "bible-krv-13",
+  "category": "성경 (개역한글판)",
+  "title": "역대상",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 10558,
+  "words": 11980,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/역대상",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 144812,
+  "rev": "661ab359b30f",
+  "bundled": false,
+  "tags": [
+   "가족",
+   "전쟁",
+   "역사·왕조"
+  ]
+ },
+ {
+  "id": "bible-krv-14",
+  "category": "성경 (개역한글판)",
+  "title": "역대하",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 12669,
+  "words": 14441,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/역대하",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 171483,
+  "rev": "9cce70623684",
+  "bundled": false,
+  "tags": [
+   "전쟁",
+   "역사·왕조",
+   "모험·여행",
+   "돈·일",
+   "신앙"
+  ]
+ },
+ {
+  "id": "bible-krv-15",
+  "category": "성경 (개역한글판)",
+  "title": "에스라",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 3602,
+  "words": 4045,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/에스라",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 48802,
+  "rev": "46fba1b8a3f8",
+  "bundled": false,
+  "tags": [
+   "역사·왕조",
+   "신앙",
+   "예술"
+  ]
+ },
+ {
+  "id": "bible-krv-16",
+  "category": "성경 (개역한글판)",
+  "title": "느헤미야",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 5336,
+  "words": 5994,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/느헤미야",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 72120,
+  "rev": "872376d90c17",
+  "bundled": false,
+  "tags": [
+   "예술",
+   "역사·왕조",
+   "가족"
+  ]
+ },
+ {
+  "id": "bible-krv-17",
+  "category": "성경 (개역한글판)",
+  "title": "에스더",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 2618,
+  "words": 2977,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/에스더",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 34764,
+  "rev": "8069d290a8d1",
+  "bundled": false,
+  "tags": [
+   "역사·왕조",
+   "자유·독립",
+   "자연"
+  ]
+ },
+ {
+  "id": "bible-krv-18",
+  "category": "성경 (개역한글판)",
+  "title": "욥기",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 9982,
+  "words": 11460,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/욥기",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 135230,
+  "rev": "de46d87ac4b4",
+  "bundled": false,
+  "tags": [
+   "우정",
+   "철학·사색",
+   "바다",
+   "가난",
+   "죽음"
+  ]
+ },
+ {
+  "id": "bible-krv-19",
+  "category": "성경 (개역한글판)",
+  "title": "시편",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 24121,
+  "words": 26625,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/시편",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 331015,
+  "rev": "3aee204aaa38",
+  "bundled": false,
+  "tags": [
+   "예술",
+   "철학·사색",
+   "바다",
+   "신앙",
+   "가난"
+  ]
+ },
+ {
+  "id": "bible-krv-20",
+  "category": "성경 (개역한글판)",
+  "title": "잠언",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 8523,
+  "words": 9585,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/잠언",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 113871,
+  "rev": "3c2bd9d3c352",
+  "bundled": false,
+  "tags": [
+   "철학·사색",
+   "우정",
+   "가난",
+   "마을·고향",
+   "술"
+  ]
+ },
+ {
+  "id": "bible-krv-21",
+  "category": "성경 (개역한글판)",
+  "title": "전도서",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 2795,
+  "words": 3303,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/전도서",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 38035,
+  "rev": "a1ac60626ae6",
+  "bundled": false,
+  "tags": [
+   "철학·사색",
+   "가난",
+   "죽음",
+   "동물",
+   "예술"
+  ]
+ },
+ {
+  "id": "bible-krv-22",
+  "category": "성경 (개역한글판)",
+  "title": "아가",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 1498,
+  "words": 1675,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/아가",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 19564,
+  "rev": "e746d0326e5e",
+  "bundled": false,
+  "tags": [
+   "사랑·결혼",
+   "자연"
+  ]
+ },
+ {
+  "id": "bible-krv-23",
+  "category": "성경 (개역한글판)",
+  "title": "이사야",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 19808,
+  "words": 22456,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/이사야",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 263112,
+  "rev": "29fafe5e12c9",
+  "bundled": false,
+  "tags": [
+   "꿈·환상",
+   "바다",
+   "모험·여행",
+   "예술",
+   "자연"
+  ]
+ },
+ {
+  "id": "bible-krv-24",
+  "category": "성경 (개역한글판)",
+  "title": "예레미야",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 21595,
+  "words": 24787,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/예레미야",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 291644,
+  "rev": "d25f3d283df7",
+  "bundled": false,
+  "tags": [
+   "전쟁",
+   "도시",
+   "모험·여행",
+   "역사·왕조",
+   "신앙"
+  ]
+ },
+ {
+  "id": "bible-krv-25",
+  "category": "성경 (개역한글판)",
+  "title": "예레미야애가",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 1781,
+  "words": 1959,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/예레미야애가",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 24259,
+  "rev": "8f3260f328fd",
+  "bundled": false,
+  "tags": [
+   "어린이"
+  ]
+ },
+ {
+  "id": "bible-krv-26",
+  "category": "성경 (개역한글판)",
+  "title": "에스겔",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 18943,
+  "words": 22925,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/에스겔",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 252160,
+  "rev": "76322f162935",
+  "bundled": false,
+  "tags": [
+   "바다",
+   "전쟁",
+   "동물"
+  ]
+ },
+ {
+  "id": "bible-krv-27",
+  "category": "성경 (개역한글판)",
+  "title": "다니엘",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 5962,
+  "words": 7084,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/다니엘",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 79028,
+  "rev": "d9cc8006b2f5",
+  "bundled": false,
+  "tags": [
+   "꿈·환상",
+   "역사·왕조",
+   "전쟁",
+   "동물",
+   "철학·사색"
+  ]
+ },
+ {
+  "id": "bible-krv-28",
+  "category": "성경 (개역한글판)",
+  "title": "호세아",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 2812,
+  "words": 3200,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/호세아",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 38815,
+  "rev": "cf80147054cc",
+  "bundled": false,
+  "tags": [
+   "동물",
+   "사랑·결혼",
+   "역사·왕조",
+   "신앙"
+  ]
+ },
+ {
+  "id": "bible-krv-29",
+  "category": "성경 (개역한글판)",
+  "title": "요엘",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 1040,
+  "words": 1172,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/요엘",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 14208,
+  "rev": "fa55146c6a08",
+  "bundled": false,
+  "tags": [
+   "전쟁",
+   "자연",
+   "신앙"
+  ]
+ },
+ {
+  "id": "bible-krv-30",
+  "category": "성경 (개역한글판)",
+  "title": "아모스",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 2176,
+  "words": 2484,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/아모스",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 29750,
+  "rev": "8f72c548e518",
+  "bundled": false,
+  "tags": [
+   "가난",
+   "바다",
+   "신앙"
+  ]
+ },
+ {
+  "id": "bible-krv-31",
+  "category": "성경 (개역한글판)",
+  "title": "오바댜",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 355,
+  "words": 410,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/오바댜",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 4865,
+  "rev": "7f11dc3a0d20",
+  "bundled": false,
+  "tags": [
+   "자연"
+  ]
+ },
+ {
+  "id": "bible-krv-32",
+  "category": "성경 (개역한글판)",
+  "title": "요나",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 675,
+  "words": 768,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/요나",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 9556,
+  "rev": "a1e87d1d3cbf",
+  "bundled": false,
+  "tags": [
+   "바다",
+   "신앙"
+  ]
+ },
+ {
+  "id": "bible-krv-33",
+  "category": "성경 (개역한글판)",
+  "title": "미가",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 1631,
+  "words": 1864,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/미가",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 22205,
+  "rev": "55a06ea65196",
+  "bundled": false,
+  "tags": [
+   "신앙"
+  ]
+ },
+ {
+  "id": "bible-krv-34",
+  "category": "성경 (개역한글판)",
+  "title": "나훔",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 683,
+  "words": 791,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/나훔",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 9315,
+  "rev": "5d98f268b92c",
+  "bundled": false,
+  "tags": []
+ },
+ {
+  "id": "bible-krv-35",
+  "category": "성경 (개역한글판)",
+  "title": "하박국",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 784,
+  "words": 890,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/하박국",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 10951,
+  "rev": "298ce03c08c2",
+  "bundled": false,
+  "tags": [
+   "바다",
+   "자연"
+  ]
+ },
+ {
+  "id": "bible-krv-36",
+  "category": "성경 (개역한글판)",
+  "title": "스바냐",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 849,
+  "words": 945,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/스바냐",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 11586,
+  "rev": "29b0fdebe1d2",
+  "bundled": false,
+  "tags": [
+   "신앙"
+  ]
+ },
+ {
+  "id": "bible-krv-37",
+  "category": "성경 (개역한글판)",
+  "title": "학개",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 563,
+  "words": 646,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/학개",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 8098,
+  "rev": "4915a5e49283",
+  "bundled": false,
+  "tags": [
+   "자연",
+   "신앙",
+   "가족"
+  ]
+ },
+ {
+  "id": "bible-krv-38",
+  "category": "성경 (개역한글판)",
+  "title": "스가랴",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 3161,
+  "words": 3617,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/스가랴",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 42485,
+  "rev": "65581dd296a3",
+  "bundled": false,
+  "tags": [
+   "신앙",
+   "자연"
+  ]
+ },
+ {
+  "id": "bible-krv-39",
+  "category": "성경 (개역한글판)",
+  "title": "말라기",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 1052,
+  "words": 1182,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/말라기",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 14461,
+  "rev": "8a57e43aebda",
+  "bundled": false,
+  "tags": [
+   "신앙",
+   "사랑·결혼"
+  ]
+ },
+ {
+  "id": "bible-krv-40",
+  "category": "성경 (개역한글판)",
+  "title": "마태복음",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 12133,
+  "words": 13959,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/마태복음",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 163824,
+  "rev": "51bafa414e0f",
+  "bundled": false,
+  "tags": [
+   "공포·괴기",
+   "모험·여행",
+   "음식",
+   "우정",
+   "죽음"
+  ]
+ },
+ {
+  "id": "bible-krv-41",
+  "category": "성경 (개역한글판)",
+  "title": "마가복음",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 7590,
+  "words": 8727,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/마가복음",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 103197,
+  "rev": "dd3c5cb95bf1",
+  "bundled": false,
+  "tags": [
+   "공포·괴기",
+   "음식",
+   "바다",
+   "죽음",
+   "마을·고향"
+  ]
+ },
+ {
+  "id": "bible-krv-42",
+  "category": "성경 (개역한글판)",
+  "title": "누가복음",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 13034,
+  "words": 15150,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/누가복음",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 175439,
+  "rev": "5c4377befc2c",
+  "bundled": false,
+  "tags": [
+   "공포·괴기",
+   "우정",
+   "모험·여행",
+   "마을·고향",
+   "죽음"
+  ]
+ },
+ {
+  "id": "bible-krv-43",
+  "category": "성경 (개역한글판)",
+  "title": "요한복음",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 10637,
+  "words": 12127,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/요한복음",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 141956,
+  "rev": "afe1005dd7e6",
+  "bundled": false,
+  "tags": [
+   "죽음",
+   "음식",
+   "공포·괴기",
+   "우정",
+   "가족"
+  ]
+ },
+ {
+  "id": "bible-krv-44",
+  "category": "성경 (개역한글판)",
+  "title": "사도행전",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 12216,
+  "words": 13981,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/사도행전",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 163416,
+  "rev": "73384489d415",
+  "bundled": false,
+  "tags": [
+   "꿈·환상",
+   "모험·여행",
+   "전쟁",
+   "우정",
+   "공포·괴기"
+  ]
+ },
+ {
+  "id": "bible-krv-45",
+  "category": "성경 (개역한글판)",
+  "title": "로마서",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 5414,
+  "words": 6200,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/로마서",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 74005,
+  "rev": "b75cd2b8b14b",
+  "bundled": false,
+  "tags": [
+   "죽음",
+   "가난",
+   "자유·독립",
+   "신앙",
+   "철학·사색"
+  ]
+ },
+ {
+  "id": "bible-krv-46",
+  "category": "성경 (개역한글판)",
+  "title": "고린도전서",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 5435,
+  "words": 6311,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/고린도전서",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 72642,
+  "rev": "ea58dbe4ba93",
+  "bundled": false,
+  "tags": [
+   "철학·사색",
+   "음식",
+   "죽음",
+   "자유·독립",
+   "신앙"
+  ]
+ },
+ {
+  "id": "bible-krv-47",
+  "category": "성경 (개역한글판)",
+  "title": "고린도후서",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 3522,
+  "words": 4104,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/고린도후서",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 48169,
+  "rev": "fc8a9936269e",
+  "bundled": false,
+  "tags": [
+   "가난",
+   "신앙",
+   "철학·사색",
+   "죽음"
+  ]
+ },
+ {
+  "id": "bible-krv-48",
+  "category": "성경 (개역한글판)",
+  "title": "갈라디아서",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 1815,
+  "words": 2050,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/갈라디아서",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 24661,
+  "rev": "1ff95d52a256",
+  "bundled": false,
+  "tags": [
+   "자유·독립",
+   "신앙"
+  ]
+ },
+ {
+  "id": "bible-krv-49",
+  "category": "성경 (개역한글판)",
+  "title": "에베소서",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 1734,
+  "words": 1988,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/에베소서",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 23501,
+  "rev": "ccb8795afe33",
+  "bundled": false,
+  "tags": [
+   "사랑·결혼",
+   "철학·사색",
+   "신앙",
+   "가족",
+   "자연"
+  ]
+ },
+ {
+  "id": "bible-krv-50",
+  "category": "성경 (개역한글판)",
+  "title": "빌립보서",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 1264,
+  "words": 1443,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/빌립보서",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 17127,
+  "rev": "747fd21c2395",
+  "bundled": false,
+  "tags": [
+   "신앙",
+   "사랑·결혼"
+  ]
+ },
+ {
+  "id": "bible-krv-51",
+  "category": "성경 (개역한글판)",
+  "title": "골로새서",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 1154,
+  "words": 1307,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/골로새서",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 15814,
+  "rev": "bea7bff69628",
+  "bundled": false,
+  "tags": [
+   "죽음",
+   "철학·사색",
+   "사랑·결혼",
+   "신앙"
+  ]
+ },
+ {
+  "id": "bible-krv-52",
+  "category": "성경 (개역한글판)",
+  "title": "데살로니가전서",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 1108,
+  "words": 1229,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/데살로니가전서",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 14960,
+  "rev": "2d051a64661a",
+  "bundled": false,
+  "tags": [
+   "신앙",
+   "사랑·결혼"
+  ]
+ },
+ {
+  "id": "bible-krv-53",
+  "category": "성경 (개역한글판)",
+  "title": "데살로니가후서",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 599,
+  "words": 668,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/데살로니가후서",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 8342,
+  "rev": "c787751f3a79",
+  "bundled": false,
+  "tags": [
+   "신앙",
+   "사랑·결혼"
+  ]
+ },
+ {
+  "id": "bible-krv-54",
+  "category": "성경 (개역한글판)",
+  "title": "디모데전서",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 1387,
+  "words": 1560,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/디모데전서",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 18523,
+  "rev": "05f9de81a213",
+  "bundled": false,
+  "tags": [
+   "철학·사색",
+   "사랑·결혼",
+   "신앙"
+  ]
+ },
+ {
+  "id": "bible-krv-55",
+  "category": "성경 (개역한글판)",
+  "title": "디모데후서",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 1018,
+  "words": 1150,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/디모데후서",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 13708,
+  "rev": "3fe1ea2f1eaa",
+  "bundled": false,
+  "tags": [
+   "철학·사색",
+   "사랑·결혼",
+   "신앙"
+  ]
+ },
+ {
+  "id": "bible-krv-56",
+  "category": "성경 (개역한글판)",
+  "title": "디도서",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 604,
+  "words": 673,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/디도서",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 8168,
+  "rev": "e1bffbf128ae",
+  "bundled": false,
+  "tags": [
+   "신앙"
+  ]
+ },
+ {
+  "id": "bible-krv-57",
+  "category": "성경 (개역한글판)",
+  "title": "빌레몬서",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 268,
+  "words": 316,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/빌레몬서",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 3731,
+  "rev": "91677d1283df",
+  "bundled": false,
+  "tags": [
+   "사랑·결혼",
+   "신앙"
+  ]
+ },
+ {
+  "id": "bible-krv-58",
+  "category": "성경 (개역한글판)",
+  "title": "히브리서",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 3859,
+  "words": 4399,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/히브리서",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 52226,
+  "rev": "70b7d969cadc",
+  "bundled": false,
+  "tags": [
+   "공포·괴기",
+   "죽음",
+   "신앙",
+   "자연"
+  ]
+ },
+ {
+  "id": "bible-krv-59",
+  "category": "성경 (개역한글판)",
+  "title": "야고보서",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 1306,
+  "words": 1480,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/야고보서",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 17583,
+  "rev": "002d41716a5b",
+  "bundled": false,
+  "tags": [
+   "철학·사색",
+   "사랑·결혼"
+  ]
+ },
+ {
+  "id": "bible-krv-60",
+  "category": "성경 (개역한글판)",
+  "title": "베드로전서",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 1447,
+  "words": 1595,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/베드로전서",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 19372,
+  "rev": "1f37107d021f",
+  "bundled": false,
+  "tags": [
+   "철학·사색",
+   "신앙",
+   "사랑·결혼",
+   "자연"
+  ]
+ },
+ {
+  "id": "bible-krv-61",
+  "category": "성경 (개역한글판)",
+  "title": "베드로후서",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 873,
+  "words": 1000,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/베드로후서",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 11714,
+  "rev": "e14120d9ebd4",
+  "bundled": false,
+  "tags": [
+   "철학·사색",
+   "사랑·결혼",
+   "자연"
+  ]
+ },
+ {
+  "id": "bible-krv-62",
+  "category": "성경 (개역한글판)",
+  "title": "요한1서",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 1472,
+  "words": 1672,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/요한1서",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 19958,
+  "rev": "52875fe2f785",
+  "bundled": false,
+  "tags": [
+   "사랑·결혼",
+   "철학·사색",
+   "신앙",
+   "가족"
+  ]
+ },
+ {
+  "id": "bible-krv-63",
+  "category": "성경 (개역한글판)",
+  "title": "요한2서",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 174,
+  "words": 193,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/요한2서",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 2505,
+  "rev": "81cb4b5b267c",
+  "bundled": false,
+  "tags": [
+   "가족",
+   "신앙"
+  ]
+ },
+ {
+  "id": "bible-krv-64",
+  "category": "성경 (개역한글판)",
+  "title": "요한3서",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 184,
+  "words": 200,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/요한3서",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 2690,
+  "rev": "4a6eff793520",
+  "bundled": false,
+  "tags": [
+   "철학·사색",
+   "사랑·결혼"
+  ]
+ },
+ {
+  "id": "bible-krv-65",
+  "category": "성경 (개역한글판)",
+  "title": "유다서",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 394,
+  "words": 438,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/유다서",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 5381,
+  "rev": "7b1b2076947c",
+  "bundled": false,
+  "tags": [
+   "사랑·결혼",
+   "신앙"
+  ]
+ },
+ {
+  "id": "bible-krv-66",
+  "category": "성경 (개역한글판)",
+  "title": "요한계시록",
+  "author": "대한성서공회",
+  "lang": "ko",
+  "total": 5981,
+  "words": 7083,
+  "source": "https://ko.wikisource.org/wiki/개역한글판/요한계시록",
+  "license": "퍼블릭 도메인 (개역한글판 1961, 2012년 저작권 만료 / 위키문헌 PD-old-60)",
+  "bytes": 78045,
+  "rev": "1dbfb2072672",
+  "bundled": false,
+  "tags": [
+   "동물",
+   "바다",
+   "자연",
+   "공포·괴기",
+   "죽음"
+  ]
+ },
+ {
+  "id": "bible-kjv-01",
+  "category": "성경 (KJV)",
+  "title": "Genesis",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 31062,
+  "words": 38264,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 268486,
+  "rev": "269e4fb19c9f",
+  "bundled": false,
+  "tags": [
+   "꿈·환상",
+   "가족",
+   "사회·계급",
+   "음식",
+   "자유·독립"
+  ]
+ },
+ {
+  "id": "bible-kjv-02",
+  "category": "성경 (KJV)",
+  "title": "Exodus",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 25521,
+  "words": 32684,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 227714,
+  "rev": "d3a9ff529e4e",
+  "bundled": false,
+  "tags": [
+   "마을·고향",
+   "음식",
+   "어린이",
+   "법·제도",
+   "자유·독립"
+  ]
+ },
+ {
+  "id": "bible-kjv-03",
+  "category": "성경 (KJV)",
+  "title": "Leviticus",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 18896,
+  "words": 24541,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 169729,
+  "rev": "b0788fb81b1a",
+  "bundled": false,
+  "tags": [
+   "음식",
+   "마을·고향",
+   "농촌",
+   "어린이"
+  ]
+ },
+ {
+  "id": "bible-kjv-04",
+  "category": "성경 (KJV)",
+  "title": "Numbers",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 25172,
+  "words": 32893,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 233213,
+  "rev": "a9e0bc0a56ff",
+  "bundled": false,
+  "tags": [
+   "어린이",
+   "범죄·추리",
+   "모험·여행",
+   "죽음",
+   "가족"
+  ]
+ },
+ {
+  "id": "bible-kjv-05",
+  "category": "성경 (KJV)",
+  "title": "Deuteronomy",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 22834,
+  "words": 28351,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 197888,
+  "rev": "5d0e054a46b4",
+  "bundled": false,
+  "tags": [
+   "자유·독립",
+   "마을·고향",
+   "음식",
+   "모험·여행",
+   "술"
+  ]
+ },
+ {
+  "id": "bible-kjv-06",
+  "category": "성경 (KJV)",
+  "title": "Joshua",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 14507,
+  "words": 18852,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 133182,
+  "rev": "15b19f6b9006",
+  "bundled": false,
+  "tags": [
+   "어린이",
+   "도시",
+   "바다",
+   "역사·왕조",
+   "사회·계급"
+  ]
+ },
+ {
+  "id": "bible-kjv-07",
+  "category": "성경 (KJV)",
+  "title": "Judges",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 15004,
+  "words": 18966,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 132657,
+  "rev": "26686fe5a975",
+  "bundled": false,
+  "tags": [
+   "어린이",
+   "도시",
+   "전쟁",
+   "가족",
+   "죽음"
+  ]
+ },
+ {
+  "id": "bible-kjv-08",
+  "category": "성경 (KJV)",
+  "title": "Ruth",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 2082,
+  "words": 2574,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 17907,
+  "rev": "ac51b04b2ee1",
+  "bundled": false,
+  "tags": [
+   "법·제도",
+   "가족",
+   "죽음",
+   "자연",
+   "도시"
+  ]
+ },
+ {
+  "id": "bible-kjv-09",
+  "category": "성경 (KJV)",
+  "title": "1 Samuel",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 20122,
+  "words": 25047,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 175076,
+  "rev": "17a756a80ff7",
+  "bundled": false,
+  "tags": [
+   "사회·계급",
+   "전쟁",
+   "음식",
+   "역사·왕조",
+   "술"
+  ]
+ },
+ {
+  "id": "bible-kjv-10",
+  "category": "성경 (KJV)",
+  "title": "2 Samuel",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 16448,
+  "words": 20599,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 144017,
+  "rev": "f2eac73ad589",
+  "bundled": false,
+  "tags": [
+   "사회·계급",
+   "역사·왕조",
+   "전쟁",
+   "죽음",
+   "가족"
+  ]
+ },
+ {
+  "id": "bible-kjv-11",
+  "category": "성경 (KJV)",
+  "title": "1 Kings",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 19093,
+  "words": 24512,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 170031,
+  "rev": "b6a6ceed7e22",
+  "bundled": false,
+  "tags": [
+   "역사·왕조",
+   "사회·계급",
+   "음식",
+   "가족",
+   "병·고통"
+  ]
+ },
+ {
+  "id": "bible-kjv-12",
+  "category": "성경 (KJV)",
+  "title": "2 Kings",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 17921,
+  "words": 23518,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 161377,
+  "rev": "a3bee1c7f64f",
+  "bundled": false,
+  "tags": [
+   "역사·왕조",
+   "사회·계급",
+   "병·고통",
+   "도시",
+   "가족"
+  ]
+ },
+ {
+  "id": "bible-kjv-13",
+  "category": "성경 (KJV)",
+  "title": "1 Chronicles",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 15299,
+  "words": 20365,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 147177,
+  "rev": "5bb08fee891a",
+  "bundled": false,
+  "tags": [
+   "가족",
+   "전쟁",
+   "예술",
+   "사회·계급",
+   "역사·왕조"
+  ]
+ },
+ {
+  "id": "bible-kjv-14",
+  "category": "성경 (KJV)",
+  "title": "2 Chronicles",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 19714,
+  "words": 26069,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 183963,
+  "rev": "6596eb97c554",
+  "bundled": false,
+  "tags": [
+   "역사·왕조",
+   "병·고통",
+   "사회·계급",
+   "전쟁",
+   "도시"
+  ]
+ },
+ {
+  "id": "bible-kjv-15",
+  "category": "성경 (KJV)",
+  "title": "Ezra",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 5462,
+  "words": 7440,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 53095,
+  "rev": "2fa9dce13d7a",
+  "bundled": false,
+  "tags": [
+   "어린이",
+   "역사·왕조",
+   "자연",
+   "법·제도",
+   "도시"
+  ]
+ },
+ {
+  "id": "bible-kjv-16",
+  "category": "성경 (KJV)",
+  "title": "Nehemiah",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 7902,
+  "words": 10480,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 75467,
+  "rev": "f96998aa361c",
+  "bundled": false,
+  "tags": [
+   "어린이",
+   "사회·계급",
+   "술",
+   "법·제도",
+   "가족"
+  ]
+ },
+ {
+  "id": "bible-kjv-17",
+  "category": "성경 (KJV)",
+  "title": "Esther",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 4309,
+  "words": 5632,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 40366,
+  "rev": "0347c05bb7ca",
+  "bundled": false,
+  "tags": [
+   "역사·왕조",
+   "술",
+   "법·제도",
+   "사회·계급",
+   "도시"
+  ]
+ },
+ {
+  "id": "bible-kjv-18",
+  "category": "성경 (KJV)",
+  "title": "Job",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 14657,
+  "words": 18098,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 130340,
+  "rev": "416f22050965",
+  "bundled": false,
+  "tags": [
+   "철학·사색",
+   "공포·괴기",
+   "죽음",
+   "바다",
+   "계절"
+  ]
+ },
+ {
+  "id": "bible-kjv-19",
+  "category": "성경 (KJV)",
+  "title": "Psalms",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 33980,
+  "words": 42684,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 309406,
+  "rev": "26b18323b6f3",
+  "bundled": false,
+  "tags": [
+   "전쟁",
+   "예술",
+   "철학·사색",
+   "사회·계급",
+   "법·제도"
+  ]
+ },
+ {
+  "id": "bible-kjv-20",
+  "category": "성경 (KJV)",
+  "title": "Proverbs",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 11525,
+  "words": 15038,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 108446,
+  "rev": "23e559461feb",
+  "bundled": false,
+  "tags": [
+   "가난",
+   "마을·고향",
+   "철학·사색",
+   "농촌",
+   "음식"
+  ]
+ },
+ {
+  "id": "bible-kjv-21",
+  "category": "성경 (KJV)",
+  "title": "Ecclesiastes",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 4399,
+  "words": 5579,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 38822,
+  "rev": "cb840aa14ddf",
+  "bundled": false,
+  "tags": [
+   "돈·일",
+   "철학·사색",
+   "음식",
+   "죽음",
+   "사회·계급"
+  ]
+ },
+ {
+  "id": "bible-kjv-22",
+  "category": "성경 (KJV)",
+  "title": "Song of Solomon",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 2105,
+  "words": 2658,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 18947,
+  "rev": "e598bc0bb1ed",
+  "bundled": false,
+  "tags": [
+   "사랑·결혼",
+   "술",
+   "자연",
+   "철학·사색",
+   "동물"
+  ]
+ },
+ {
+  "id": "bible-kjv-23",
+  "category": "성경 (KJV)",
+  "title": "Isaiah",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 29163,
+  "words": 37038,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 261239,
+  "rev": "b2ee3f747450",
+  "bundled": false,
+  "tags": [
+   "자유·독립",
+   "가난",
+   "술",
+   "예술",
+   "농촌"
+  ]
+ },
+ {
+  "id": "bible-kjv-24",
+  "category": "성경 (KJV)",
+  "title": "Jeremiah",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 33077,
+  "words": 42654,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 298488,
+  "rev": "a32465477b75",
+  "bundled": false,
+  "tags": [
+   "자유·독립",
+   "마을·고향",
+   "역사·왕조",
+   "도시",
+   "전쟁"
+  ]
+ },
+ {
+  "id": "bible-kjv-25",
+  "category": "성경 (KJV)",
+  "title": "Lamentations",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 2654,
+  "words": 3411,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 24417,
+  "rev": "570069bc008a",
+  "bundled": false,
+  "tags": [
+   "전쟁",
+   "도시",
+   "음식",
+   "어린이",
+   "철학·사색"
+  ]
+ },
+ {
+  "id": "bible-kjv-26",
+  "category": "성경 (KJV)",
+  "title": "Ezekiel",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 30957,
+  "words": 39401,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 274970,
+  "rev": "6be8ae6a4194",
+  "bundled": false,
+  "tags": [
+   "법·제도",
+   "자연",
+   "음식",
+   "마을·고향",
+   "도시"
+  ]
+ },
+ {
+  "id": "bible-kjv-27",
+  "category": "성경 (KJV)",
+  "title": "Daniel",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 9161,
+  "words": 11603,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 82452,
+  "rev": "4e74c8f768c3",
+  "bundled": false,
+  "tags": [
+   "꿈·환상",
+   "역사·왕조",
+   "술",
+   "사회·계급",
+   "자연"
+  ]
+ },
+ {
+  "id": "bible-kjv-28",
+  "category": "성경 (KJV)",
+  "title": "Hosea",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 4090,
+  "words": 5174,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 36919,
+  "rev": "b8b6dad19933",
+  "bundled": false,
+  "tags": [
+   "술",
+   "음식",
+   "어린이",
+   "동물",
+   "역사·왕조"
+  ]
+ },
+ {
+  "id": "bible-kjv-29",
+  "category": "성경 (KJV)",
+  "title": "Joel",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 1554,
+  "words": 2033,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 14404,
+  "rev": "b5ff9f417173",
+  "bundled": false,
+  "tags": [
+   "술",
+   "자연",
+   "전쟁",
+   "어린이"
+  ]
+ },
+ {
+  "id": "bible-kjv-30",
+  "category": "성경 (KJV)",
+  "title": "Amos",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 3236,
+  "words": 4216,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 29538,
+  "rev": "ae4fe592fa26",
+  "bundled": false,
+  "tags": [
+   "술",
+   "도시",
+   "바다",
+   "동물",
+   "음식"
+  ]
+ },
+ {
+  "id": "bible-kjv-31",
+  "category": "성경 (KJV)",
+  "title": "Obadiah",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 510,
+  "words": 669,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 4878,
+  "rev": "7c15467d8246",
+  "bundled": false,
+  "tags": []
+ },
+ {
+  "id": "bible-kjv-32",
+  "category": "성경 (KJV)",
+  "title": "Jonah",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 1070,
+  "words": 1320,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 9324,
+  "rev": "92dc74b13083",
+  "bundled": false,
+  "tags": [
+   "바다",
+   "도시",
+   "신앙"
+  ]
+ },
+ {
+  "id": "bible-kjv-33",
+  "category": "성경 (KJV)",
+  "title": "Micah",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 2445,
+  "words": 3152,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 22149,
+  "rev": "62fbf5e5b249",
+  "bundled": false,
+  "tags": [
+   "전쟁",
+   "법·제도",
+   "자연",
+   "동물"
+  ]
+ },
+ {
+  "id": "bible-kjv-34",
+  "category": "성경 (KJV)",
+  "title": "Nahum",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 1033,
+  "words": 1284,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 9464,
+  "rev": "9fba03051247",
+  "bundled": false,
+  "tags": [
+   "동물"
+  ]
+ },
+ {
+  "id": "bible-kjv-35",
+  "category": "성경 (KJV)",
+  "title": "Habakkuk",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 1158,
+  "words": 1475,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 10780,
+  "rev": "368fa6340ac7",
+  "bundled": false,
+  "tags": []
+ },
+ {
+  "id": "bible-kjv-36",
+  "category": "성경 (KJV)",
+  "title": "Zephaniah",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 1234,
+  "words": 1616,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 11478,
+  "rev": "50ec2763139e",
+  "bundled": false,
+  "tags": []
+ },
+ {
+  "id": "bible-kjv-37",
+  "category": "성경 (KJV)",
+  "title": "Haggai",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 841,
+  "words": 1130,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 7824,
+  "rev": "347df288d4ca",
+  "bundled": false,
+  "tags": [
+   "가족"
+  ]
+ },
+ {
+  "id": "bible-kjv-38",
+  "category": "성경 (KJV)",
+  "title": "Zechariah",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 5015,
+  "words": 6443,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 44696,
+  "rev": "87cbd3016ed4",
+  "bundled": false,
+  "tags": [
+   "마을·고향",
+   "바다",
+   "동물",
+   "도시",
+   "전쟁"
+  ]
+ },
+ {
+  "id": "bible-kjv-39",
+  "category": "성경 (KJV)",
+  "title": "Malachi",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 1411,
+  "words": 1781,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 12634,
+  "rev": "858f6f195744",
+  "bundled": false,
+  "tags": [
+   "법·제도",
+   "사랑·결혼"
+  ]
+ },
+ {
+  "id": "bible-kjv-40",
+  "category": "성경 (KJV)",
+  "title": "Matthew",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 19633,
+  "words": 23684,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 169840,
+  "rev": "9b376f5dba7b",
+  "bundled": false,
+  "tags": [
+   "병·고통",
+   "농촌",
+   "바다",
+   "사회·계급",
+   "모험·여행"
+  ]
+ },
+ {
+  "id": "bible-kjv-41",
+  "category": "성경 (KJV)",
+  "title": "Mark",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 12791,
+  "words": 15166,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 108550,
+  "rev": "b7a4e7954ede",
+  "bundled": false,
+  "tags": [
+   "병·고통",
+   "바다",
+   "음식",
+   "공포·괴기",
+   "죽음"
+  ]
+ },
+ {
+  "id": "bible-kjv-42",
+  "category": "성경 (KJV)",
+  "title": "Luke",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 21536,
+  "words": 25939,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 184048,
+  "rev": "d89b3407a4e8",
+  "bundled": false,
+  "tags": [
+   "마을·고향",
+   "병·고통",
+   "모험·여행",
+   "가난",
+   "범죄·추리"
+  ]
+ },
+ {
+  "id": "bible-kjv-43",
+  "category": "성경 (KJV)",
+  "title": "John",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 16124,
+  "words": 19095,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 135325,
+  "rev": "722588fd9010",
+  "bundled": false,
+  "tags": [
+   "병·고통",
+   "자유·독립",
+   "가족",
+   "죽음",
+   "음식"
+  ]
+ },
+ {
+  "id": "bible-kjv-44",
+  "category": "성경 (KJV)",
+  "title": "Acts",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 19984,
+  "words": 24246,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 175581,
+  "rev": "6af5e866059a",
+  "bundled": false,
+  "tags": [
+   "공포·괴기",
+   "자유·독립",
+   "바다",
+   "병·고통",
+   "모험·여행"
+  ]
+ },
+ {
+  "id": "bible-kjv-45",
+  "category": "성경 (KJV)",
+  "title": "Romans",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 7501,
+  "words": 9422,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 68093,
+  "rev": "ef42f4764d3f",
+  "bundled": false,
+  "tags": [
+   "법·제도",
+   "죽음",
+   "신앙",
+   "공포·괴기",
+   "사회·계급"
+  ]
+ },
+ {
+  "id": "bible-kjv-46",
+  "category": "성경 (KJV)",
+  "title": "1 Corinthians",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 7644,
+  "words": 9462,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 67100,
+  "rev": "955ac57b6b40",
+  "bundled": false,
+  "tags": [
+   "음식",
+   "법·제도",
+   "죽음",
+   "신앙",
+   "철학·사색"
+  ]
+ },
+ {
+  "id": "bible-kjv-47",
+  "category": "성경 (KJV)",
+  "title": "2 Corinthians",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 4799,
+  "words": 6065,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 43470,
+  "rev": "b75cc75d7f37",
+  "bundled": false,
+  "tags": [
+   "신앙",
+   "죽음",
+   "사랑·결혼"
+  ]
+ },
+ {
+  "id": "bible-kjv-48",
+  "category": "성경 (KJV)",
+  "title": "Galatians",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 2465,
+  "words": 3084,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 22227,
+  "rev": "aad86fe57224",
+  "bundled": false,
+  "tags": [
+   "자유·독립",
+   "법·제도",
+   "신앙",
+   "어린이"
+  ]
+ },
+ {
+  "id": "bible-kjv-49",
+  "category": "성경 (KJV)",
+  "title": "Ephesians",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 2313,
+  "words": 3022,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 21959,
+  "rev": "68d8d681f5f0",
+  "bundled": false,
+  "tags": [
+   "신앙",
+   "사랑·결혼",
+   "철학·사색",
+   "어린이",
+   "가족"
+  ]
+ },
+ {
+  "id": "bible-kjv-50",
+  "category": "성경 (KJV)",
+  "title": "Philippians",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 1730,
+  "words": 2183,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 15783,
+  "rev": "61860d0e2676",
+  "bundled": false,
+  "tags": [
+   "신앙",
+   "죽음",
+   "사랑·결혼"
+  ]
+ },
+ {
+  "id": "bible-kjv-51",
+  "category": "성경 (KJV)",
+  "title": "Colossians",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 1530,
+  "words": 1979,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 14506,
+  "rev": "747490677b84",
+  "bundled": false,
+  "tags": [
+   "신앙",
+   "철학·사색",
+   "사랑·결혼",
+   "죽음"
+  ]
+ },
+ {
+  "id": "bible-kjv-52",
+  "category": "성경 (KJV)",
+  "title": "1 Thessalonians",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 1466,
+  "words": 1837,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 13341,
+  "rev": "7d49e0d11906",
+  "bundled": false,
+  "tags": [
+   "돈·일",
+   "신앙",
+   "사랑·결혼",
+   "어린이"
+  ]
+ },
+ {
+  "id": "bible-kjv-53",
+  "category": "성경 (KJV)",
+  "title": "2 Thessalonians",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 819,
+  "words": 1022,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 7562,
+  "rev": "5992d175b019",
+  "bundled": false,
+  "tags": [
+   "음식",
+   "신앙"
+  ]
+ },
+ {
+  "id": "bible-kjv-54",
+  "category": "성경 (KJV)",
+  "title": "1 Timothy",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 1832,
+  "words": 2244,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 17258,
+  "rev": "7a03e26ca534",
+  "bundled": false,
+  "tags": [
+   "학교·배움",
+   "신앙",
+   "사랑·결혼",
+   "철학·사색"
+  ]
+ },
+ {
+  "id": "bible-kjv-55",
+  "category": "성경 (KJV)",
+  "title": "2 Timothy",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 1359,
+  "words": 1666,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 12584,
+  "rev": "5c424bb5d41b",
+  "bundled": false,
+  "tags": [
+   "학교·배움",
+   "신앙",
+   "철학·사색",
+   "사랑·결혼"
+  ]
+ },
+ {
+  "id": "bible-kjv-56",
+  "category": "성경 (KJV)",
+  "title": "Titus",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 734,
+  "words": 896,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 7076,
+  "rev": "b5bff9d84db5",
+  "bundled": false,
+  "tags": [
+   "사랑·결혼",
+   "신앙"
+  ]
+ },
+ {
+  "id": "bible-kjv-57",
+  "category": "성경 (KJV)",
+  "title": "Philemon",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 347,
+  "words": 430,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 3305,
+  "rev": "291109171c0f",
+  "bundled": false,
+  "tags": [
+   "사랑·결혼",
+   "신앙",
+   "가족"
+  ]
+ },
+ {
+  "id": "bible-kjv-58",
+  "category": "성경 (KJV)",
+  "title": "Hebrews",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 5425,
+  "words": 6897,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 50065,
+  "rev": "1efb97cee9f1",
+  "bundled": false,
+  "tags": [
+   "법·제도",
+   "공포·괴기",
+   "죽음",
+   "신앙"
+  ]
+ },
+ {
+  "id": "bible-kjv-59",
+  "category": "성경 (KJV)",
+  "title": "James",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 1838,
+  "words": 2304,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 16673,
+  "rev": "9e30e8898878",
+  "bundled": false,
+  "tags": [
+   "법·제도",
+   "철학·사색",
+   "죽음",
+   "사랑·결혼"
+  ]
+ },
+ {
+  "id": "bible-kjv-60",
+  "category": "성경 (KJV)",
+  "title": "1 Peter",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 1943,
+  "words": 2475,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 18173,
+  "rev": "70b5fc11d9b0",
+  "bundled": false,
+  "tags": [
+   "신앙",
+   "사랑·결혼",
+   "죽음"
+  ]
+ },
+ {
+  "id": "bible-kjv-61",
+  "category": "성경 (KJV)",
+  "title": "2 Peter",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 1239,
+  "words": 1553,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 11714,
+  "rev": "eece9b0327cb",
+  "bundled": false,
+  "tags": [
+   "철학·사색",
+   "사랑·결혼",
+   "신앙"
+  ]
+ },
+ {
+  "id": "bible-kjv-62",
+  "category": "성경 (KJV)",
+  "title": "1 John",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 2053,
+  "words": 2516,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 17700,
+  "rev": "4d7143ddc930",
+  "bundled": false,
+  "tags": [
+   "사랑·결혼",
+   "가족",
+   "신앙",
+   "어린이",
+   "철학·사색"
+  ]
+ },
+ {
+  "id": "bible-kjv-63",
+  "category": "성경 (KJV)",
+  "title": "2 John",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 242,
+  "words": 298,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 2284,
+  "rev": "e80ebdc69b30",
+  "bundled": false,
+  "tags": [
+   "철학·사색",
+   "가족",
+   "신앙"
+  ]
+ },
+ {
+  "id": "bible-kjv-64",
+  "category": "성경 (KJV)",
+  "title": "3 John",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 247,
+  "words": 294,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 2338,
+  "rev": "12a2d801bf1a",
+  "bundled": false,
+  "tags": [
+   "철학·사색",
+   "신앙"
+  ]
+ },
+ {
+  "id": "bible-kjv-65",
+  "category": "성경 (KJV)",
+  "title": "Jude",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 485,
+  "words": 608,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 4782,
+  "rev": "b5da461ae165",
+  "bundled": false,
+  "tags": [
+   "사랑·결혼",
+   "신앙"
+  ]
+ },
+ {
+  "id": "bible-kjv-66",
+  "category": "성경 (KJV)",
+  "title": "Revelation",
+  "author": "King James Version",
+  "lang": "en",
+  "total": 9445,
+  "words": 11995,
+  "source": "https://www.gutenberg.org/ebooks/10",
+  "license": "퍼블릭 도메인 (1611)",
+  "bytes": 83896,
+  "rev": "a0909041a863",
+  "bundled": false,
+  "tags": [
+   "바다",
+   "예술",
+   "술",
+   "도시",
+   "죽음"
+  ]
+ },
+ {
+  "id": "doc-samil",
+  "category": "공공 문서",
+  "title": "3·1 독립선언서",
+  "author": "손병희 외",
+  "lang": "ko",
+  "total": 631,
+  "words": 723,
+  "source": "https://ko.wikisource.org/wiki/3·1독립선언서",
+  "license": "원문 퍼블릭 도메인(1919) / 현대어 번역 공공누리 제1유형 (3·1운동 및 대한민국임시정부 수립 100주년 기념사업 추진위원회)",
+  "bytes": 8732,
+  "rev": "f6c1b7b20c82",
+  "bundled": false,
+  "tags": [
+   "자유·독립"
+  ]
+ },
+ {
+  "id": "doc-constitution",
+  "category": "공공 문서",
+  "title": "대한민국헌법",
+  "author": "대한민국",
+  "lang": "ko",
+  "total": 3851,
+  "words": 4379,
+  "source": "https://ko.wikisource.org/wiki/대한민국헌법_(제10호)",
+  "license": "저작권법 제7조 비보호 저작물(법령)",
+  "bytes": 55787,
+  "rev": "bdd347d57d0b",
+  "bundled": false,
+  "tags": [
+   "법·제도",
+   "범죄·추리",
+   "자유·독립",
+   "전쟁",
+   "사회·계급"
+  ]
+ },
+ {
+  "id": "wiki-hunminjeongeum",
+  "category": "위키백과",
+  "title": "훈민정음",
+  "author": "위키백과",
+  "lang": "ko",
+  "total": 1185,
+  "words": 1334,
+  "source": "https://ko.wikipedia.org/wiki/훈민정음 (CC BY-SA)",
+  "license": "CC BY-SA 4.0 (위키백과 기여자)",
+  "bytes": 18073,
+  "rev": "f26f1c6ba05d",
+  "bundled": false,
+  "tags": []
+ },
+ {
+  "id": "wiki-evolution",
+  "category": "위키백과",
+  "title": "진화",
+  "author": "위키백과",
+  "lang": "ko",
+  "total": 5749,
+  "words": 6458,
+  "source": "https://ko.wikipedia.org/w/index.php?title=진화&oldid=41823518",
+  "license": "CC BY-SA 4.0 (위키백과 기여자)",
+  "bytes": 79776,
+  "rev": "7a626b614b15",
+  "bundled": false,
+  "tags": [
+   "과학",
+   "자유·독립",
+   "바다"
+  ]
+ },
+ {
+  "id": "wiki-genetics",
+  "category": "위키백과",
+  "title": "유전학",
+  "author": "위키백과",
+  "lang": "ko",
+  "total": 2589,
+  "words": 2859,
+  "source": "https://ko.wikipedia.org/w/index.php?title=유전학&oldid=41776608",
+  "license": "CC BY-SA 4.0 (위키백과 기여자)",
+  "bytes": 36132,
+  "rev": "7189435f0a9a",
+  "bundled": false,
+  "tags": [
+   "과학",
+   "자유·독립",
+   "자연"
+  ]
+ },
+ {
+  "id": "wiki-star",
+  "category": "위키백과",
+  "title": "항성",
+  "author": "위키백과",
+  "lang": "ko",
+  "total": 5221,
+  "words": 5805,
+  "source": "https://ko.wikipedia.org/w/index.php?title=항성&oldid=42087559",
+  "license": "CC BY-SA 4.0 (위키백과 기여자)",
+  "bytes": 68861,
+  "rev": "19ec8f7e9793",
+  "bundled": false,
+  "tags": [
+   "과학",
+   "도시"
+  ]
+ },
+ {
+  "id": "wiki-solar-system",
+  "category": "위키백과",
+  "title": "태양계의 형성과 진화",
+  "author": "위키백과",
+  "lang": "ko",
+  "total": 4408,
+  "words": 5030,
+  "source": "https://ko.wikipedia.org/w/index.php?title=태양계의_형성과_진화&oldid=41718815",
+  "license": "CC BY-SA 4.0 (위키백과 기여자)",
+  "bytes": 60764,
+  "rev": "2f8f0be3b54d",
+  "bundled": false,
+  "tags": [
+   "과학",
+   "죽음"
+  ]
+ },
+ {
+  "id": "wiki-earthquake",
+  "category": "위키백과",
+  "title": "지진",
+  "author": "위키백과",
+  "lang": "ko",
+  "total": 7510,
+  "words": 8325,
+  "source": "https://ko.wikipedia.org/w/index.php?title=지진&oldid=42414084",
+  "license": "CC BY-SA 4.0 (위키백과 기여자)",
+  "bytes": 103105,
+  "rev": "d71e1ea27d82",
+  "bundled": false,
+  "tags": [
+   "과학",
+   "사회·계급"
+  ]
+ },
+ {
+  "id": "wiki-ancient-rome",
+  "category": "위키백과",
+  "title": "고대 로마",
+  "author": "위키백과",
+  "lang": "ko",
+  "total": 4656,
+  "words": 5027,
+  "source": "https://ko.wikipedia.org/w/index.php?title=고대_로마&oldid=42690012",
+  "license": "CC BY-SA 4.0 (위키백과 기여자)",
+  "bytes": 65301,
+  "rev": "fcbcde73bda5",
+  "bundled": false,
+  "tags": [
+   "사회·계급",
+   "전쟁",
+   "역사·왕조",
+   "학교·배움",
+   "예술"
+  ]
+ },
+ {
+  "id": "wiki-hanbok",
+  "category": "위키백과",
+  "title": "한복",
+  "author": "위키백과",
+  "lang": "ko",
+  "total": 4994,
+  "words": 5513,
+  "source": "https://ko.wikipedia.org/w/index.php?title=한복&oldid=42689893",
+  "license": "CC BY-SA 4.0 (위키백과 기여자)",
+  "bytes": 68937,
+  "rev": "fab4e1b54137",
+  "bundled": false,
+  "tags": [
+   "사회·계급",
+   "계절",
+   "자유·독립",
+   "어린이"
+  ]
+ },
+ {
+  "id": "wiki-namhansanseong",
+  "category": "위키백과",
+  "title": "남한산성",
+  "author": "위키백과",
+  "lang": "ko",
+  "total": 5294,
+  "words": 5802,
+  "source": "https://ko.wikipedia.org/w/index.php?title=남한산성&oldid=42661022",
+  "license": "CC BY-SA 4.0 (위키백과 기여자)",
+  "bytes": 73967,
+  "rev": "9777ee28f26b",
+  "bundled": false,
+  "tags": [
+   "전쟁",
+   "동물"
+  ]
+ },
+ {
+  "id": "wiki-platypus",
+  "category": "위키백과",
+  "title": "오리너구리",
+  "author": "위키백과",
+  "lang": "ko",
+  "total": 2753,
+  "words": 3104,
+  "source": "https://ko.wikipedia.org/w/index.php?title=오리너구리&oldid=42511951",
+  "license": "CC BY-SA 4.0 (위키백과 기여자)",
+  "bytes": 39771,
+  "rev": "acc1adc8765b",
+  "bundled": false,
+  "tags": [
+   "과학"
+  ]
+ },
+ {
+  "id": "wiki-italian-cuisine",
+  "category": "위키백과",
+  "title": "이탈리아 요리",
+  "author": "위키백과",
+  "lang": "ko",
+  "total": 4420,
+  "words": 4779,
+  "source": "https://ko.wikipedia.org/w/index.php?title=이탈리아_요리&oldid=42522454",
+  "license": "CC BY-SA 4.0 (위키백과 기여자)",
+  "bytes": 62062,
+  "rev": "9af1606f2021",
+  "bundled": false,
+  "tags": [
+   "음식",
+   "동물"
+  ]
+ },
+ {
+  "id": "wiki-kepler",
+  "category": "위키백과",
+  "title": "요하네스 케플러",
+  "author": "위키백과",
+  "lang": "ko",
+  "total": 6486,
+  "words": 7125,
+  "source": "https://ko.wikipedia.org/w/index.php?title=요하네스_케플러&oldid=42371841",
+  "license": "CC BY-SA 4.0 (위키백과 기여자)",
+  "bytes": 92573,
+  "rev": "0c4984f97af2",
+  "bundled": false,
+  "tags": [
+   "모험·여행",
+   "과학",
+   "학교·배움",
+   "역사·왕조",
+   "전쟁"
+  ]
+ },
+ {
+  "id": "wiki-poe",
+  "category": "위키백과",
+  "title": "에드거 앨런 포",
+  "author": "위키백과",
+  "lang": "ko",
+  "total": 3625,
+  "words": 4020,
+  "source": "https://ko.wikipedia.org/w/index.php?title=에드거_앨런_포&oldid=42629002",
+  "license": "CC BY-SA 4.0 (위키백과 기여자)",
+  "bytes": 50862,
+  "rev": "060a4c89dab2",
+  "bundled": false,
+  "tags": [
+   "죽음",
+   "학교·배움",
+   "술",
+   "예술",
+   "돈·일"
+  ]
+ },
+ {
+  "id": "oa-thesis-son2015",
+  "category": "논문",
+  "title": "대학부설연구소 학술논문 오픈액세스 활성화 방안",
+  "author": "손천익 (2015, 한성대 석사학위논문)",
+  "lang": "ko",
+  "total": 11201,
+  "words": 12233,
+  "source": "한성대 석사학위논문 (CC BY 2.0 KR)",
+  "license": "CC BY 2.0 KR",
+  "bytes": 163650,
+  "rev": "90d6ec26dda2",
+  "bundled": false,
+  "tags": [
+   "사회·계급",
+   "예술"
+  ]
+ }
+]
