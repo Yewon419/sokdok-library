@@ -1735,7 +1735,12 @@
    "돈·일",
    "가족",
    "음식"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 1
+  }
  },
  {
   "id": "bible-krv-02",
@@ -1756,7 +1761,12 @@
    "동물",
    "전쟁",
    "자연"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 2
+  }
  },
  {
   "id": "bible-krv-03",
@@ -1777,7 +1787,12 @@
    "신앙",
    "농촌",
    "죽음"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 3
+  }
  },
  {
   "id": "bible-krv-04",
@@ -1798,7 +1813,12 @@
    "가족",
    "죽음",
    "동물"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 4
+  }
  },
  {
   "id": "bible-krv-05",
@@ -1819,7 +1839,12 @@
    "신앙",
    "자연",
    "마을·고향"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 5
+  }
  },
  {
   "id": "bible-krv-06",
@@ -1840,7 +1865,12 @@
    "바다",
    "역사·왕조",
    "신앙"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 6
+  }
  },
  {
   "id": "bible-krv-07",
@@ -1861,7 +1891,12 @@
    "죽음",
    "가족",
    "어린이"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 7
+  }
  },
  {
   "id": "bible-krv-08",
@@ -1881,7 +1916,12 @@
    "어린이",
    "죽음",
    "가족"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 8
+  }
  },
  {
   "id": "bible-krv-09",
@@ -1902,7 +1942,12 @@
    "역사·왕조",
    "음식",
    "신앙"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 9
+  }
  },
  {
   "id": "bible-krv-10",
@@ -1923,7 +1968,12 @@
    "죽음",
    "우정",
    "어린이"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 10
+  }
  },
  {
   "id": "bible-krv-11",
@@ -1944,7 +1994,12 @@
    "음식",
    "동물",
    "죽음"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 11
+  }
  },
  {
   "id": "bible-krv-12",
@@ -1965,7 +2020,12 @@
    "돈·일",
    "죽음",
    "가족"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 12
+  }
  },
  {
   "id": "bible-krv-13",
@@ -1984,7 +2044,12 @@
    "가족",
    "전쟁",
    "역사·왕조"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 13
+  }
  },
  {
   "id": "bible-krv-14",
@@ -2005,7 +2070,12 @@
    "모험·여행",
    "돈·일",
    "신앙"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 14
+  }
  },
  {
   "id": "bible-krv-15",
@@ -2024,7 +2094,12 @@
    "역사·왕조",
    "신앙",
    "예술"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 15
+  }
  },
  {
   "id": "bible-krv-16",
@@ -2043,7 +2118,12 @@
    "예술",
    "역사·왕조",
    "가족"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 16
+  }
  },
  {
   "id": "bible-krv-17",
@@ -2062,7 +2142,12 @@
    "역사·왕조",
    "자유·독립",
    "자연"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 17
+  }
  },
  {
   "id": "bible-krv-18",
@@ -2083,7 +2168,12 @@
    "바다",
    "가난",
    "죽음"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 18
+  }
  },
  {
   "id": "bible-krv-19",
@@ -2104,7 +2194,12 @@
    "바다",
    "신앙",
    "가난"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 19
+  }
  },
  {
   "id": "bible-krv-20",
@@ -2125,7 +2220,12 @@
    "가난",
    "마을·고향",
    "술"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 20
+  }
  },
  {
   "id": "bible-krv-21",
@@ -2146,7 +2246,12 @@
    "죽음",
    "동물",
    "예술"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 21
+  }
  },
  {
   "id": "bible-krv-22",
@@ -2164,7 +2269,12 @@
   "tags": [
    "사랑·결혼",
    "자연"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 22
+  }
  },
  {
   "id": "bible-krv-23",
@@ -2185,7 +2295,12 @@
    "모험·여행",
    "예술",
    "자연"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 23
+  }
  },
  {
   "id": "bible-krv-24",
@@ -2206,7 +2321,12 @@
    "모험·여행",
    "역사·왕조",
    "신앙"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 24
+  }
  },
  {
   "id": "bible-krv-25",
@@ -2223,7 +2343,12 @@
   "bundled": false,
   "tags": [
    "어린이"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 25
+  }
  },
  {
   "id": "bible-krv-26",
@@ -2242,7 +2367,12 @@
    "바다",
    "전쟁",
    "동물"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 26
+  }
  },
  {
   "id": "bible-krv-27",
@@ -2263,7 +2393,12 @@
    "전쟁",
    "동물",
    "철학·사색"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 27
+  }
  },
  {
   "id": "bible-krv-28",
@@ -2283,7 +2418,12 @@
    "사랑·결혼",
    "역사·왕조",
    "신앙"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 28
+  }
  },
  {
   "id": "bible-krv-29",
@@ -2302,7 +2442,12 @@
    "전쟁",
    "자연",
    "신앙"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 29
+  }
  },
  {
   "id": "bible-krv-30",
@@ -2321,7 +2466,12 @@
    "가난",
    "바다",
    "신앙"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 30
+  }
  },
  {
   "id": "bible-krv-31",
@@ -2338,7 +2488,12 @@
   "bundled": false,
   "tags": [
    "자연"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 31
+  }
  },
  {
   "id": "bible-krv-32",
@@ -2356,7 +2511,12 @@
   "tags": [
    "바다",
    "신앙"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 32
+  }
  },
  {
   "id": "bible-krv-33",
@@ -2373,7 +2533,12 @@
   "bundled": false,
   "tags": [
    "신앙"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 33
+  }
  },
  {
   "id": "bible-krv-34",
@@ -2388,7 +2553,12 @@
   "bytes": 9315,
   "rev": "5d98f268b92c",
   "bundled": false,
-  "tags": []
+  "tags": [],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 34
+  }
  },
  {
   "id": "bible-krv-35",
@@ -2406,7 +2576,12 @@
   "tags": [
    "바다",
    "자연"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 35
+  }
  },
  {
   "id": "bible-krv-36",
@@ -2423,7 +2598,12 @@
   "bundled": false,
   "tags": [
    "신앙"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 36
+  }
  },
  {
   "id": "bible-krv-37",
@@ -2442,7 +2622,12 @@
    "자연",
    "신앙",
    "가족"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 37
+  }
  },
  {
   "id": "bible-krv-38",
@@ -2460,7 +2645,12 @@
   "tags": [
    "신앙",
    "자연"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 38
+  }
  },
  {
   "id": "bible-krv-39",
@@ -2478,7 +2668,12 @@
   "tags": [
    "신앙",
    "사랑·결혼"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 39
+  }
  },
  {
   "id": "bible-krv-40",
@@ -2499,7 +2694,12 @@
    "음식",
    "우정",
    "죽음"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 40
+  }
  },
  {
   "id": "bible-krv-41",
@@ -2520,7 +2720,12 @@
    "바다",
    "죽음",
    "마을·고향"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 41
+  }
  },
  {
   "id": "bible-krv-42",
@@ -2541,7 +2746,12 @@
    "모험·여행",
    "마을·고향",
    "죽음"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 42
+  }
  },
  {
   "id": "bible-krv-43",
@@ -2562,7 +2772,12 @@
    "공포·괴기",
    "우정",
    "가족"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 43
+  }
  },
  {
   "id": "bible-krv-44",
@@ -2583,7 +2798,12 @@
    "전쟁",
    "우정",
    "공포·괴기"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 44
+  }
  },
  {
   "id": "bible-krv-45",
@@ -2604,7 +2824,12 @@
    "자유·독립",
    "신앙",
    "철학·사색"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 45
+  }
  },
  {
   "id": "bible-krv-46",
@@ -2625,7 +2850,12 @@
    "죽음",
    "자유·독립",
    "신앙"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 46
+  }
  },
  {
   "id": "bible-krv-47",
@@ -2645,7 +2875,12 @@
    "신앙",
    "철학·사색",
    "죽음"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 47
+  }
  },
  {
   "id": "bible-krv-48",
@@ -2663,7 +2898,12 @@
   "tags": [
    "자유·독립",
    "신앙"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 48
+  }
  },
  {
   "id": "bible-krv-49",
@@ -2684,7 +2924,12 @@
    "신앙",
    "가족",
    "자연"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 49
+  }
  },
  {
   "id": "bible-krv-50",
@@ -2702,7 +2947,12 @@
   "tags": [
    "신앙",
    "사랑·결혼"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 50
+  }
  },
  {
   "id": "bible-krv-51",
@@ -2722,7 +2972,12 @@
    "철학·사색",
    "사랑·결혼",
    "신앙"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 51
+  }
  },
  {
   "id": "bible-krv-52",
@@ -2740,7 +2995,12 @@
   "tags": [
    "신앙",
    "사랑·결혼"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 52
+  }
  },
  {
   "id": "bible-krv-53",
@@ -2758,7 +3018,12 @@
   "tags": [
    "신앙",
    "사랑·결혼"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 53
+  }
  },
  {
   "id": "bible-krv-54",
@@ -2777,7 +3042,12 @@
    "철학·사색",
    "사랑·결혼",
    "신앙"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 54
+  }
  },
  {
   "id": "bible-krv-55",
@@ -2796,7 +3066,12 @@
    "철학·사색",
    "사랑·결혼",
    "신앙"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 55
+  }
  },
  {
   "id": "bible-krv-56",
@@ -2813,7 +3088,12 @@
   "bundled": false,
   "tags": [
    "신앙"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 56
+  }
  },
  {
   "id": "bible-krv-57",
@@ -2831,7 +3111,12 @@
   "tags": [
    "사랑·결혼",
    "신앙"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 57
+  }
  },
  {
   "id": "bible-krv-58",
@@ -2851,7 +3136,12 @@
    "죽음",
    "신앙",
    "자연"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 58
+  }
  },
  {
   "id": "bible-krv-59",
@@ -2869,7 +3159,12 @@
   "tags": [
    "철학·사색",
    "사랑·결혼"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 59
+  }
  },
  {
   "id": "bible-krv-60",
@@ -2889,7 +3184,12 @@
    "신앙",
    "사랑·결혼",
    "자연"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 60
+  }
  },
  {
   "id": "bible-krv-61",
@@ -2908,7 +3208,12 @@
    "철학·사색",
    "사랑·결혼",
    "자연"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 61
+  }
  },
  {
   "id": "bible-krv-62",
@@ -2928,7 +3233,12 @@
    "철학·사색",
    "신앙",
    "가족"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 62
+  }
  },
  {
   "id": "bible-krv-63",
@@ -2946,7 +3256,12 @@
   "tags": [
    "가족",
    "신앙"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 63
+  }
  },
  {
   "id": "bible-krv-64",
@@ -2964,7 +3279,12 @@
   "tags": [
    "철학·사색",
    "사랑·결혼"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 64
+  }
  },
  {
   "id": "bible-krv-65",
@@ -2982,7 +3302,12 @@
   "tags": [
    "사랑·결혼",
    "신앙"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 65
+  }
  },
  {
   "id": "bible-krv-66",
@@ -3003,7 +3328,12 @@
    "자연",
    "공포·괴기",
    "죽음"
-  ]
+  ],
+  "series": {
+   "id": "bible-krv",
+   "title": "성경 (개역한글판)",
+   "order": 66
+  }
  },
  {
   "id": "bible-kjv-01",
@@ -3024,7 +3354,12 @@
    "사회·계급",
    "음식",
    "자유·독립"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 1
+  }
  },
  {
   "id": "bible-kjv-02",
@@ -3045,7 +3380,12 @@
    "어린이",
    "법·제도",
    "자유·독립"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 2
+  }
  },
  {
   "id": "bible-kjv-03",
@@ -3065,7 +3405,12 @@
    "마을·고향",
    "농촌",
    "어린이"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 3
+  }
  },
  {
   "id": "bible-kjv-04",
@@ -3086,7 +3431,12 @@
    "모험·여행",
    "죽음",
    "가족"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 4
+  }
  },
  {
   "id": "bible-kjv-05",
@@ -3107,7 +3457,12 @@
    "음식",
    "모험·여행",
    "술"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 5
+  }
  },
  {
   "id": "bible-kjv-06",
@@ -3128,7 +3483,12 @@
    "바다",
    "역사·왕조",
    "사회·계급"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 6
+  }
  },
  {
   "id": "bible-kjv-07",
@@ -3149,7 +3509,12 @@
    "전쟁",
    "가족",
    "죽음"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 7
+  }
  },
  {
   "id": "bible-kjv-08",
@@ -3170,7 +3535,12 @@
    "죽음",
    "자연",
    "도시"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 8
+  }
  },
  {
   "id": "bible-kjv-09",
@@ -3191,7 +3561,12 @@
    "음식",
    "역사·왕조",
    "술"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 9
+  }
  },
  {
   "id": "bible-kjv-10",
@@ -3212,7 +3587,12 @@
    "전쟁",
    "죽음",
    "가족"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 10
+  }
  },
  {
   "id": "bible-kjv-11",
@@ -3233,7 +3613,12 @@
    "음식",
    "가족",
    "병·고통"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 11
+  }
  },
  {
   "id": "bible-kjv-12",
@@ -3254,7 +3639,12 @@
    "병·고통",
    "도시",
    "가족"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 12
+  }
  },
  {
   "id": "bible-kjv-13",
@@ -3275,7 +3665,12 @@
    "예술",
    "사회·계급",
    "역사·왕조"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 13
+  }
  },
  {
   "id": "bible-kjv-14",
@@ -3296,7 +3691,12 @@
    "사회·계급",
    "전쟁",
    "도시"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 14
+  }
  },
  {
   "id": "bible-kjv-15",
@@ -3317,7 +3717,12 @@
    "자연",
    "법·제도",
    "도시"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 15
+  }
  },
  {
   "id": "bible-kjv-16",
@@ -3338,7 +3743,12 @@
    "술",
    "법·제도",
    "가족"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 16
+  }
  },
  {
   "id": "bible-kjv-17",
@@ -3359,7 +3769,12 @@
    "법·제도",
    "사회·계급",
    "도시"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 17
+  }
  },
  {
   "id": "bible-kjv-18",
@@ -3380,7 +3795,12 @@
    "죽음",
    "바다",
    "계절"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 18
+  }
  },
  {
   "id": "bible-kjv-19",
@@ -3401,7 +3821,12 @@
    "철학·사색",
    "사회·계급",
    "법·제도"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 19
+  }
  },
  {
   "id": "bible-kjv-20",
@@ -3422,7 +3847,12 @@
    "철학·사색",
    "농촌",
    "음식"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 20
+  }
  },
  {
   "id": "bible-kjv-21",
@@ -3443,7 +3873,12 @@
    "음식",
    "죽음",
    "사회·계급"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 21
+  }
  },
  {
   "id": "bible-kjv-22",
@@ -3464,7 +3899,12 @@
    "자연",
    "철학·사색",
    "동물"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 22
+  }
  },
  {
   "id": "bible-kjv-23",
@@ -3485,7 +3925,12 @@
    "술",
    "예술",
    "농촌"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 23
+  }
  },
  {
   "id": "bible-kjv-24",
@@ -3506,7 +3951,12 @@
    "역사·왕조",
    "도시",
    "전쟁"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 24
+  }
  },
  {
   "id": "bible-kjv-25",
@@ -3527,7 +3977,12 @@
    "음식",
    "어린이",
    "철학·사색"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 25
+  }
  },
  {
   "id": "bible-kjv-26",
@@ -3548,7 +4003,12 @@
    "음식",
    "마을·고향",
    "도시"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 26
+  }
  },
  {
   "id": "bible-kjv-27",
@@ -3569,7 +4029,12 @@
    "술",
    "사회·계급",
    "자연"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 27
+  }
  },
  {
   "id": "bible-kjv-28",
@@ -3590,7 +4055,12 @@
    "어린이",
    "동물",
    "역사·왕조"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 28
+  }
  },
  {
   "id": "bible-kjv-29",
@@ -3610,7 +4080,12 @@
    "자연",
    "전쟁",
    "어린이"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 29
+  }
  },
  {
   "id": "bible-kjv-30",
@@ -3631,7 +4106,12 @@
    "바다",
    "동물",
    "음식"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 30
+  }
  },
  {
   "id": "bible-kjv-31",
@@ -3646,7 +4126,12 @@
   "bytes": 4878,
   "rev": "7c15467d8246",
   "bundled": false,
-  "tags": []
+  "tags": [],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 31
+  }
  },
  {
   "id": "bible-kjv-32",
@@ -3665,7 +4150,12 @@
    "바다",
    "도시",
    "신앙"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 32
+  }
  },
  {
   "id": "bible-kjv-33",
@@ -3685,7 +4175,12 @@
    "법·제도",
    "자연",
    "동물"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 33
+  }
  },
  {
   "id": "bible-kjv-34",
@@ -3702,7 +4197,12 @@
   "bundled": false,
   "tags": [
    "동물"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 34
+  }
  },
  {
   "id": "bible-kjv-35",
@@ -3717,7 +4217,12 @@
   "bytes": 10780,
   "rev": "368fa6340ac7",
   "bundled": false,
-  "tags": []
+  "tags": [],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 35
+  }
  },
  {
   "id": "bible-kjv-36",
@@ -3732,7 +4237,12 @@
   "bytes": 11478,
   "rev": "50ec2763139e",
   "bundled": false,
-  "tags": []
+  "tags": [],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 36
+  }
  },
  {
   "id": "bible-kjv-37",
@@ -3749,7 +4259,12 @@
   "bundled": false,
   "tags": [
    "가족"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 37
+  }
  },
  {
   "id": "bible-kjv-38",
@@ -3770,7 +4285,12 @@
    "동물",
    "도시",
    "전쟁"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 38
+  }
  },
  {
   "id": "bible-kjv-39",
@@ -3788,7 +4308,12 @@
   "tags": [
    "법·제도",
    "사랑·결혼"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 39
+  }
  },
  {
   "id": "bible-kjv-40",
@@ -3809,7 +4334,12 @@
    "바다",
    "사회·계급",
    "모험·여행"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 40
+  }
  },
  {
   "id": "bible-kjv-41",
@@ -3830,7 +4360,12 @@
    "음식",
    "공포·괴기",
    "죽음"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 41
+  }
  },
  {
   "id": "bible-kjv-42",
@@ -3851,7 +4386,12 @@
    "모험·여행",
    "가난",
    "범죄·추리"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 42
+  }
  },
  {
   "id": "bible-kjv-43",
@@ -3872,7 +4412,12 @@
    "가족",
    "죽음",
    "음식"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 43
+  }
  },
  {
   "id": "bible-kjv-44",
@@ -3893,7 +4438,12 @@
    "바다",
    "병·고통",
    "모험·여행"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 44
+  }
  },
  {
   "id": "bible-kjv-45",
@@ -3914,7 +4464,12 @@
    "신앙",
    "공포·괴기",
    "사회·계급"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 45
+  }
  },
  {
   "id": "bible-kjv-46",
@@ -3935,7 +4490,12 @@
    "죽음",
    "신앙",
    "철학·사색"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 46
+  }
  },
  {
   "id": "bible-kjv-47",
@@ -3954,7 +4514,12 @@
    "신앙",
    "죽음",
    "사랑·결혼"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 47
+  }
  },
  {
   "id": "bible-kjv-48",
@@ -3974,7 +4539,12 @@
    "법·제도",
    "신앙",
    "어린이"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 48
+  }
  },
  {
   "id": "bible-kjv-49",
@@ -3995,7 +4565,12 @@
    "철학·사색",
    "어린이",
    "가족"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 49
+  }
  },
  {
   "id": "bible-kjv-50",
@@ -4014,7 +4589,12 @@
    "신앙",
    "죽음",
    "사랑·결혼"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 50
+  }
  },
  {
   "id": "bible-kjv-51",
@@ -4034,7 +4614,12 @@
    "철학·사색",
    "사랑·결혼",
    "죽음"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 51
+  }
  },
  {
   "id": "bible-kjv-52",
@@ -4054,7 +4639,12 @@
    "신앙",
    "사랑·결혼",
    "어린이"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 52
+  }
  },
  {
   "id": "bible-kjv-53",
@@ -4072,7 +4662,12 @@
   "tags": [
    "음식",
    "신앙"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 53
+  }
  },
  {
   "id": "bible-kjv-54",
@@ -4092,7 +4687,12 @@
    "신앙",
    "사랑·결혼",
    "철학·사색"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 54
+  }
  },
  {
   "id": "bible-kjv-55",
@@ -4112,7 +4712,12 @@
    "신앙",
    "철학·사색",
    "사랑·결혼"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 55
+  }
  },
  {
   "id": "bible-kjv-56",
@@ -4130,7 +4735,12 @@
   "tags": [
    "사랑·결혼",
    "신앙"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 56
+  }
  },
  {
   "id": "bible-kjv-57",
@@ -4149,7 +4759,12 @@
    "사랑·결혼",
    "신앙",
    "가족"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 57
+  }
  },
  {
   "id": "bible-kjv-58",
@@ -4169,7 +4784,12 @@
    "공포·괴기",
    "죽음",
    "신앙"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 58
+  }
  },
  {
   "id": "bible-kjv-59",
@@ -4189,7 +4809,12 @@
    "철학·사색",
    "죽음",
    "사랑·결혼"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 59
+  }
  },
  {
   "id": "bible-kjv-60",
@@ -4208,7 +4833,12 @@
    "신앙",
    "사랑·결혼",
    "죽음"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 60
+  }
  },
  {
   "id": "bible-kjv-61",
@@ -4227,7 +4857,12 @@
    "철학·사색",
    "사랑·결혼",
    "신앙"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 61
+  }
  },
  {
   "id": "bible-kjv-62",
@@ -4248,7 +4883,12 @@
    "신앙",
    "어린이",
    "철학·사색"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 62
+  }
  },
  {
   "id": "bible-kjv-63",
@@ -4267,7 +4907,12 @@
    "철학·사색",
    "가족",
    "신앙"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 63
+  }
  },
  {
   "id": "bible-kjv-64",
@@ -4285,7 +4930,12 @@
   "tags": [
    "철학·사색",
    "신앙"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 64
+  }
  },
  {
   "id": "bible-kjv-65",
@@ -4303,7 +4953,12 @@
   "tags": [
    "사랑·결혼",
    "신앙"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 65
+  }
  },
  {
   "id": "bible-kjv-66",
@@ -4324,7 +4979,12 @@
    "술",
    "도시",
    "죽음"
-  ]
+  ],
+  "series": {
+   "id": "bible-kjv",
+   "title": "성경 (KJV)",
+   "order": 66
+  }
  },
  {
   "id": "doc-samil",
